@@ -4,7 +4,7 @@ import Event23 from "./pages/Event23";
 function App() {
   return (
     <Routes>
-      <Route path="/meriise-events-page/" element={<Event23 />} />
+      <Route exact path="/" element={<Event23 />} />
     </Routes>
   );
 }

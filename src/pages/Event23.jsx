@@ -8,6 +8,8 @@ function Event23() {
       <div className="lg:grid lg:grid-cols-2 lg:gap-4">
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
 
+
+
         <Carousel
           images={["http://meriise.org/events23/avk.jpg"]}
           title="Empowering Holistic Education through Innovation "

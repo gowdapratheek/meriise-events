@@ -32,7 +32,7 @@ function Carousel({ images, title, description, date }) {
       onMouseLeave={handleCarouselMouseLeave}
       onClick={handleCarouselClick}
     >
-      <div className="flex flex-col items-center flex-1 h-full w-full">
+      <div className="flex flex-col items-center flex-1 h-full w-full mx-[px]">
         <img
           src={images[currentImageIndex]}
           alt=""
@@ -41,7 +41,7 @@ function Carousel({ images, title, description, date }) {
           }`}
         />
         <h2
-          className={`text-2xl font-bold mt-auto absolute bottom-0 pb-4 ${
+          className={`text-sm lg:text-xl font-bold text-justify mt-auto absolute bottom-0 pb-4 ${
             isPtagVisible ? "hidden" : ""
           }`}
           style={{ color: "#01adfc" }}

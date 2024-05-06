@@ -36,6 +36,7 @@ function Carousel({ images, title, description, date }) {
         <img
           src={images[currentImageIndex]}
           alt=""
+          loading="lazy"
           className={`h-[50vh] w-[80vw] lg:w-[35vw] mt-4 rounded-2xl  ${
             isPtagVisible ? "hidden" : ""
           }`}

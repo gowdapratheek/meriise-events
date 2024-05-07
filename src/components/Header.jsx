@@ -9,9 +9,9 @@ function Header() {
       <div className="fixed top-0 left-0 w-full bg-black h-[12vh]  flex items-center justify-between z-50">
         <a href="http://www.meriise.org/" className="cursor-pointer ">
           <img
-            src="http://www.meriise.org/images/rect78.png"
+            src="\assets\meriise-logo.png"
             alt=""
-            className="h-12 mx-8 flex"
+            className="h-[7.5rem] mx-8 flex"
           />
         </a>
         <div className="space-y-2 mx-4 mt-4 lg:hidden" onClick={openNav}>

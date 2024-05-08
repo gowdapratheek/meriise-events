@@ -136,7 +136,6 @@ function Event23() {
             "/assets/events23/robo2.jpg",
             "/assets/events23/robo3.jpg",
             "/assets/events23/robo4.jpg",
-            "/assets/events23/robo5.jpg",
           ]}
           title="ROBOTECHX-SOCCERBOTS"
           description="Shaped the future by refining problem-solving skills and guiding participants through the exhilarating process of designing, coding, and building their robotic creations."

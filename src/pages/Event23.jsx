@@ -164,8 +164,7 @@ function Event23() {
 
         <Carousel
           images={["/assets/events23/yep1.jpg", "/assets/events23/yep2.jpg"]}
-          title="Young Entrepreneurs Programme - AURA2.0 – 
-          State level project expo"
+          title="AURA2.0 – State level project expo"
           description="Provided a platform for aspiring entrepreneurs to showcase their innovative projects and foster a spirit of entrepreneurship."
           date=" 19th June, 2023"
         />
@@ -260,7 +259,7 @@ function Event23() {
             "/assets/events23/vci2.jpg",
             "/assets/events23/vci3.jpg",
           ]}
-          title="Visit to Centre of Innovation and Entrepreneurship – PES University "
+          title="Visit to PES University "
           description="The visit and discussion paved way to catalyse the collaboration of CIE and ME-RIISE FOUNDATION and work towards achieving the objective of ME-RIISE FOUNDATION. 
           Discussion with Shri Arun Hiriyanna encompassed on the platform CIE has built to inspire and enable students and start-ups to develop innovative world-changing ideas and become successful entrepreneurs"
           date="19th May, 2023"
@@ -288,8 +287,7 @@ function Event23() {
             "/assets/events23/ssn2.jpg",
             "/assets/events23/ssn3.jpg",
           ]}
-          title="From Start-up to Success: 
-          Navigating India's Entrepreneurial Landscape"
+          title="From Start-up to Success"
           description="The event fostered to provide practical insights and guidance to students and aspiring entrepreneurs about the Indian entrepreneurial landscape, the unique challenges faced by start-ups in India, and the strategies that can help overcome them."
           date="10th April, 2023"
         />

@@ -8,8 +8,8 @@ import Event20 from "./pages/Event20";
 function App() {
   return (
     <Routes>
-      <Route exact path="/home" element={<Home />} />
-      <Route exact path="/" element={<Event23 />} />
+      <Route exact path="/" element={<Home />} />
+      {/* <Route exact path="/" element={<Event23 />} /> */}
       <Route exact path="/events23" element={<Event23 />} />
       <Route exact path="/events22" element={<Event22 />} />
       <Route exact path="/events21" element={<Event21 />} />

@@ -50,6 +50,17 @@ function Home() {
               </Link>
             </p>
           </div>
+          <div className="my-5">
+            <p>
+              <Link
+                to="/events20"
+                className="text-3xl flex justify-center items-center"
+              >
+                2020
+              </Link>
+            </p>
+          </div>
+
         </div>
       </div>
     </>

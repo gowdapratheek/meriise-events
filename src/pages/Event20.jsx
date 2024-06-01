@@ -7,48 +7,6 @@ function Event20() {
       <Header />
       <div className="lg:grid lg:grid-cols-2 lg:gap-4">
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
-        <Carousel
-          images={["/assets/events20/rap.png"]}
-          title="Rural awareness Programme "
-          description="Induced interest in agriculture and trained them to use technology in agriculture"
-          date="31st March, 2021"
-        />
-        <Carousel
-          images={[
-            "/assets/events20/shamp1.jpg",
-            "/assets/events20/shamp2.jpg",
-          ]}
-          title="Soil health analysis and management of plant nutrition "
-          description="Trained to improve economic stability and good health of agricultural ecosystem."
-          date="1st March, 2021"
-        />
-        <Carousel
-          images={["/assets/events20/ap1.jpg"]}
-          title="Arduino Programming "
-          description="Provided hands-on experience in using embedded and software tools"
-          date=" 5th – 6th March, 2021 "
-        />
-        <Carousel
-          images={[
-            "/assets/events20/swpe1.jpg",
-            "/assets/events20/swpe2.jpg",
-            "/assets/events20/swpe3.jpg",
-            "/assets/events20/swpe4.jpg",
-          ]}
-          title="Specifications, Wiring and Protection of Electrical Appliances  "
-          description="Enhanced knowledge on various protection and specifications in  electrical wiring "
-          date="18th February, 2021"
-        />
-        <Carousel
-          images={[
-            "/assets/events20/tg1.jpg",
-            "/assets/events20/tg2.jpg",
-            "/assets/events20/tg3.jpg",
-          ]}
-          title="TechGeek Session"
-          description="Signified the need for technical capabilities to become a successful entrepreneur"
-          date="17th February, 2021 "
-        />
 
         <Carousel
           images={["/assets/events20/img2.jpg"]}

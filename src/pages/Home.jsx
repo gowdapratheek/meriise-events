@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "/src/components/Header";
 import { Link } from "react-router-dom";
 
@@ -8,7 +7,6 @@ function Home() {
       <Header />
       <div className="mt-[20vh]">
         <div className="[&_*]: text-[#01adfc] [&_*]:bg-black [&_*]:w-[40vh] [&_*]:h-[10vh] [&_*]:rounded-2xl flex flex-col justify-center items-center    lg:grid lg:grid-cols-2 lg:gap-4 lg:[&_*]:place-self-center">
-         
           {/* <div className="my-5">
             <p>
               <Link
@@ -41,8 +39,17 @@ function Home() {
               </Link>
             </p>
           </div>
-          
 
+          <div className="my-5">
+            <p>
+              <Link
+                to="/events21"
+                className="text-3xl flex justify-center items-center"
+              >
+                2021
+              </Link>
+            </p>
+          </div>
         </div>
       </div>
     </>

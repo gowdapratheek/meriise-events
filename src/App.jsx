@@ -4,6 +4,7 @@ import Event23 from "./pages/Event23";
 import Event22 from "./pages/Event22";
 import Event21 from "./pages/Event21";
 import Event20 from "./pages/Event20";
+import Event19 from "./pages/Event19";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Route exact path="/events22" element={<Event22 />} />
       <Route exact path="/events21" element={<Event21 />} />
       <Route exact path="/events20" element={<Event20 />} />
+      <Route exact path="/events20" element={<Event19 />} />
     </Routes>
   );
 }

@@ -75,17 +75,6 @@ function Home() {
           <div className="my-5">
             <p>
               <Link
-                to="/events19"
-                className="text-3xl flex justify-center items-center"
-              >
-                2019
-              </Link>
-            </p>
-          </div>
-
-          <div className="my-5">
-            <p>
-              <Link
                 to="/events18"
                 className="text-3xl flex justify-center items-center"
               >

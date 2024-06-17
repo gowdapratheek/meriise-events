@@ -21,6 +21,17 @@ function Home() {
           <div className="my-5">
             <p>
               <Link
+                to="/events24"
+                className="text-3xl flex justify-center items-center"
+              >
+                2024
+              </Link>
+            </p>
+          </div>
+
+          <div className="my-5">
+            <p>
+              <Link
                 to="/events23"
                 className="text-3xl flex justify-center items-center"
               >

@@ -187,14 +187,14 @@ function Event24() {
         />
 
         <Carousel
-          images={["/assets/events24/pras3.jpg", "/assets/events23/pras2.jpg"]}
+          images={["/assets/events24/pras3.jpg", "/assets/events24/pras2.jpg"]}
           title="PRASTHUTHI 2.0 "
           description="Facilitating a platform for the expression of ideas within specific domains encompassing both software and hardware."
           date="16-01-2024"
         />
 
         <Carousel
-          images={["/assets/events24/jrny1.jpg", "/assets/events23/jrny2.jpg"]}
+          images={["/assets/events24/jrny1.jpg", "/assets/events24/jrny2.jpg"]}
           title="A Professional Journey of an Alumnus  "
           description="To facilitate a comprehensive learning experience for participants, fostering professional growth and leadership development"
           date="4th January, 2024"

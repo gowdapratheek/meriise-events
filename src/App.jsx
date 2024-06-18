@@ -19,7 +19,6 @@ function App() {
       <Route exact path="/events21" element={<Event21 />} />
       <Route exact path="/events20" element={<Event20 />} />
       <Route exact path="/events19" element={<Event19 />} />
-      {/* <Route exact path="/events19" element={<Event19 />} /> */}
       <Route exact path="/events18" element={<Event18 />} />
     </Routes>
   );

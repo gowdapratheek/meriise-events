@@ -47,7 +47,7 @@ function Event24() {
             "/assets/events24/pro2.jpg",
             "/assets/events24/pro3.jpg",
           ]}
-          title="Unlocking Innovation through Design Thinking"
+          title="Design Thinking"
           description="To equip participants from five mentee institutes with the essential knowledge and practical skills required to apply design thinking principles in problem-solving and innovation processes"
           date="7th May, 2024"
         />
@@ -92,7 +92,7 @@ function Event24() {
 
         <Carousel
           images={["/assets/events24/inh1.jpg", "/assets/events24/inh2.jpg"]}
-          title="In-house workshop on Process, Design and Development"
+          title="Design and Development Workshop"
           description="The workshop emphasized Design Thinking as a user-centric approach pivotal in fostering innovation in product and service design "
           date="6th April, 2024"
         />
@@ -100,8 +100,7 @@ function Event24() {
         <Carousel
           images={["/assets/events24/ha.jpg"]}
           title="Collaboration with HADSSIA"
-          description="Breaking Barriers, Building Futures - Hassan District Small Scale Industries Association (HADSSIA) collaborates with the ME-RIISE Foundation to launch a transformative skill development initiative. Dr. Geetha Kiran A, CEO of ME-RIISE Foundation, receives the offer letter from Dr J R Bangera, National MSME Board Member Govt Of India🇮🇳, alongside H A KIRAN, Director FKCCI and President HADSSIA, Shashidar Shetty ,President KASSIA, and esteemed delegates of MSME during the inauguration of the Skill Development Center on 23rd March 2024.
-          Entrepreneurship Awareness Programme focused on equipping participants with actionable strategies to thrive in the digital landscape, fostering innovation and entrepreneurship in the community."
+          description="HADSSIA partners with ME-RIISE Foundation for a skill development initiative. Dr. Geetha Kiran A receives the offer letter from Dr. J R Bangera at the inauguration on March 23, 2024. The program aims to empower with digital strategies and promote entrepreneurship, supported by MSME delegates and industry leaders."
           date="23rd March, 2024"
         />
 
@@ -114,7 +113,7 @@ function Event24() {
 
         <Carousel
           images={["/assets/events24/mdp1.jpg", "/assets/events24/mdp2.jpg"]}
-          title="Management Development Programme on Digital Marketing"
+          title="Digital Marketing"
           description="The Management Development Programme on Digital Marketing resulted in participants gaining actionable insights and practical knowledge, empowering them to implement effective digital marketing strategies in their respective fields."
           date="11th to 15th March, 2024 "
         />
@@ -147,7 +146,7 @@ function Event24() {
             "/assets/events24/uba2.jpg",
             "/assets/events24/uba3.jpg",
           ]}
-          title="Community and Outreach Programme through UBA"
+          title="UBA Visit"
           description="Gramavasthavya at Dudda , Hassan unveiled a profound tapestry of intellect and humanity amidst the rural landscape. With Professionalism, Preparation, and Camaraderie, the young minds ideated solutions to rural problems and stole the show."
           date="15th and 16th February, 2024"
         />
@@ -155,10 +154,10 @@ function Event24() {
         <Carousel
           images={[
             "/assets/events24/con1.jpg",
-            "/assets/events24/fcon2.jpg",
+            "/assets/events24/con2.jpg",
             "/assets/events24/con3.jpg",
           ]}
-          title="2-day Workshop On Concepts To Reality"
+          title="Concepts To Reality"
           description="Department of Computer Science and Engineering in association with ME-RIISE FOUNDATION organized a 2-day hands on workshop on using IoT. Students were exposed concepts of building innovative solutions to real world problems using IoT systems."
           date="13th and 14th February, 2024"
         />
@@ -187,15 +186,15 @@ function Event24() {
         />
 
         <Carousel
-          images={["/assets/events24/pras3.jpg", "/assets/events23/pras2.jpg"]}
+          images={["/assets/events24/pras3.jpg", "/assets/events24/pras2.jpg"]}
           title="PRASTHUTHI 2.0 "
           description="Facilitating a platform for the expression of ideas within specific domains encompassing both software and hardware."
           date="16-01-2024"
         />
 
         <Carousel
-          images={["/assets/events24/jrny1.jpg", "/assets/events23/jrny2.jpg"]}
-          title="A Professional Journey of an Alumnus  "
+          images={["/assets/events24/jrny1.jpg", "/assets/events24/jrny2.jpg"]}
+          title="Professional Journey of an Alumnus  "
           description="To facilitate a comprehensive learning experience for participants, fostering professional growth and leadership development"
           date="4th January, 2024"
         />

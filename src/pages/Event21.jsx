@@ -35,8 +35,8 @@ function Event21() {
             "/assets/events20/swpe3.jpg",
             "/assets/events20/swpe4.jpg",
           ]}
-          title="Specifications, Wiring and Protection of Electrical Appliances  "
-          description="Enhanced knowledge on various protection and specifications in  electrical wiring "
+          title="Specifications, Wiring and Protection of Electrical Appliances"
+          description="Enhanced knowledge on various protection and specifications in  electrical wiring"
           date="18th February, 2021"
         />
         <Carousel
@@ -47,7 +47,7 @@ function Event21() {
           ]}
           title="TechGeek Session"
           description="Signified the need for technical capabilities to become a successful entrepreneur"
-          date="17th February, 2021 "
+          date="17th February, 2021"
         />
         <Carousel
           images={["/assets/events21/Picture1.jpg"]}
@@ -60,7 +60,7 @@ function Event21() {
             "/assets/events21/Picture6.jpg",
             "/assets/events21/Picture5.jpg",
           ]}
-          title="Debate on Entrepreneurship or job-what should engineers opt for?"
+          title="Debate on Entrepreneurship"
           description="Expressed their choice of career"
           date="24th August, 2021"
         />
@@ -74,6 +74,28 @@ function Event21() {
           description="Created an entrepreneurial ecosystem in the campus"
           date="7th  October, 2021"
         />
+
+        <Carousel
+          images={[
+            "/assets/events21/Pragyatha1.jpg",
+            "/assets/events21/Pragyatha2.jpg",
+            "/assets/events21/Pragyatha3.jpg",
+            "/assets/events21/Pragyatha4.jpg.png",
+            "/assets/events21/Pragyatha5.jpg",
+          ]}
+          title="PRAGYATHA‘21 – State level Entrepreneurial fest"
+          description="Enabled the students across the state to understand important phases of becoming an entrepreneur.
+Developed skills through modern tools and software.
+Instilled an entrepreneurial behaviour.
+"
+          date="7th  October, 2021"
+        />
+
+
+
+
+
+
       </div>
     </>
   );

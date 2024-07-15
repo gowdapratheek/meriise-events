@@ -10,6 +10,86 @@ function Event23() {
 
         <Carousel
           images={[
+            "/assets/events23/web1.jpg",
+            "/assets/events23/web2.jpg",
+            "/assets/events23/web3.jpg",
+            "/assets/events23/web4.jpg",
+
+          ]}
+          title="6- week web designing course"
+          description="The course empowered unemployed youth with comprehensive skills in web design and personality development, fostering their professional growth and enhancing their employability through hands-on training and guidance."
+          date=" 20th November to 29th December, 2023"
+        />
+
+        <Carousel
+          images={[
+            "/assets/events23/esa1.jpg",
+            "/assets/events23/esa2.jpg",
+
+          ]}
+          title="Entrepreneurial Skill, Attitude and Behavioral Development "
+          description="Equip participants with essential insights and strategies, fostering a mindset crucial for navigating the challenges of the entrepreneurial landscape "
+          date="21st December, 2023"
+        />
+
+
+
+
+        <Carousel
+          images={[
+            "/assets/events23/Prag1.jpg",
+            "/assets/events23/prag2.jpg",
+            "/assets/events23/Prag3.jpg",
+            "/assets/events23/Prag4.jpg",
+            "/assets/events23/Prag5.jpg",
+
+
+          ]}
+          title="Pragyatha’23 - State level Entrepreneurial Fest"
+          description="The fest featured eight simultaneous events, engaging participants from diverse branches and fostering a spirited environment of creativity and collaboration."
+          date="15th to 17th December, 2023"
+        />
+
+        <Carousel
+          images={[
+            "/assets/events23/poll1.jpg",
+
+          ]}
+          title="National Energy Conservation Day"
+          description="To raise awareness and foster a sense of responsibility among students regarding energy conservation, emphasizing the role of renewable resources and the reduction of distribution losses"
+          date="14th and 15th December, 2023"
+        />
+
+
+        <Carousel
+          images={[
+            "/assets/events23/nec1.jpg",
+            "/assets/events23/nec2.jpg",
+            "/assets/events23/nec3.jpg",
+            "/assets/events23/nec4.jpg",
+          ]}
+          title="National Pollution Control Day "
+          description="The event aimed to raise awareness among students about the significance of pollution control, with a specific focus on soliciting innovative ideas through a poster presentation competition."
+          date="7th December, 2023"
+        />
+
+        {/* Four Week Intership Programme */}
+
+        <Carousel
+          images={[
+            "/assets/events23/nepd.jpg",
+            "/assets/events23/nepd2.jpg",
+
+          ]}
+          title="Celebration of National Entrepreneurship Day"
+          description="Proto-Expo served as the grand culmination of the internship This event was strategically scheduled to coincide with the celebration of National Entrepreneurship Day"
+          date="9th November, 2023"
+        />
+
+
+
+        <Carousel
+          images={[
             "/assets/events23/idea2.jpg",
             "/assets/events23/idea3.jpg",
             "/assets/events23/idea5.jpg",
@@ -35,6 +115,61 @@ function Event23() {
 "
           date="25th October, 2023"
         />
+
+
+
+        <Carousel
+          images={[
+            "/assets/events23/mss1.jpg",
+            "/assets/events23/mss2.jpg",
+            "/assets/events23/mss3.jpg",
+            "/assets/events23/mss4.jpg",
+            // "/assets/events23/mss5.jpg",
+          ]}
+          title="Motivational Session by Successful Entrepreneur-Start-up "
+          description="Mr. Johnson Tellis shared invaluable insights into the entrepreneurial mindset, emphasizing the purpose of becoming an entrepreneur. Real-world examples and personal experiences were woven into the session to inspire and guide interns on their entrepreneurial journey."
+          date="21st October, 2023"
+        />
+
+
+        <Carousel
+          images={[
+            "/assets/events23/emp1.jpg",
+            "/assets/events23/emp2.jpg",
+            "/assets/events23/emp3.jpg",
+
+          ]}
+          title="Expert Mentoring for Problem Statement Validation "
+          description="Participants received expert guidance for validating their problem statements. The mentorship team included:
+                        Sri. Ananth Ravi, Director, ME-RIISE FOUNDATION.
+                        Mr. Johnson Tellis, Co-Founder and CEO of Inunity.
+                        Dr. Aruna Kumar S V,  Associate Professor, Department of CSE.
+                        Mrs. Madhu Shree S, Assistant Professor, Department of Civil Engineering."
+          date="20th October, 2023"
+        />
+        <Carousel images={["/assets/events23/efvp1.jpg",
+          "/assets/events23/efvp2.jpg",
+          "/assets/events23/efvp3.jpg"]}
+
+          title="Exposure and field visit for problem identification"
+          description="Students embarked on field visits, each team exploring locations relevant to the sector they selected. This hands-on experience provided practical insights into real-world challenges and further emphasized the importance of problem identification in a specific context."
+          date="19th October, 2023" />
+
+
+          
+        <Carousel
+          images={[
+            "/assets/events23/ciid1.jpg",
+            "/assets/events23/ciie2'.jpg",
+            "/assets/events23/ciie3.jpg",
+            "/assets/events23/ciie4.jpg",
+            // "/assets/events23/ciie5.png",
+          ]}
+          title="Celebration of Institution's Innovation Day"
+          description="Dr. Geetha Kiran A led comprehensive sessions highlighting the significance of innovation and the importance of entrepreneurship. Real-world examples and present-day statistics were utilized to underscore the impact of innovation."
+          date="17th October ,2023"
+        />
+
 
         <Carousel
           images={[

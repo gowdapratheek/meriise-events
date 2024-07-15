@@ -15,39 +15,29 @@ function Event22() {
             "/assets/events22/necd3.jpg",
           ]}
           title="National Energy Conservation Day"
-          description="Raised awareness on the need to save energy and promote energy-efficient solutions worldwide
-"
+          description="Raised awareness on the need to save energy and promote energy-efficient solutions worldwide"
           date="21st & 22nd  December, 2022 "
         />
 
         <Carousel
           images={["/assets/events22/npcd.jpg"]}
-          title="National Pollution Control Day 
-"
-          description="Focused on creating awareness to adopt pollution control measures in vehicles.
-"
-          date="29th December, 2022
-"
+          title="National Pollution Control Day"
+          description="Focused on creating awareness to adopt pollution control measures in vehicles."
+          date="29th December, 2022"
         />
 
         <Carousel
           images={["/assets/events22/eap.jpg"]}
-          title="Entrepreneurship Awareness Programme 
-"
-          description="Gained knowledge on various funding schemes and opportunities of MSME 
-"
-          date="2nd December, 2022
-"
+          title="Entrepreneurship Awareness Programme "
+          description="Gained knowledge on various funding schemes and opportunities of MSME "
+          date="2nd December, 2022"
         />
 
         <Carousel
           images={["/assets/events22/bts1.jpg", "/assets/events22/bts1.jpg"]}
-          title="Bangalore Tech Summit
-"
-          description="Exposure to various startups and innovations
-"
-          date="16 – 18 November, 2022
-"
+          title="Bangalore Tech Summit"
+          description="Exposure to various startups and innovations"
+          date="16 – 18 November, 2022"
         />
 
         <Carousel
@@ -55,28 +45,21 @@ function Event22() {
           title="National Education Day-Kalakar"
           description="Developed creative thinking skills
 Ideated innovative designs in poster making & video editing"
-          date="12th November, 2022
-"
+          date="12th November, 2022"
         />
 
         <Carousel
           images={["/assets/events22/int.jpg"]}
-          title="Internship 
-"
-          description="One month internship on diverse engineering platforms
-"
-          date="31st October to 19th November, 2022  
-"
+          title="Internship "
+          description="One month internship on diverse engineering platforms"
+          date="31st October to 19th November, 2022  "
         />
 
         <Carousel
           images={["/assets/events22/ide.jpg"]}
-          title="IDEATHON
-"
-          description="Presentation of Innovative ideas 
-"
-          date="21st  October, 2022
-"
+          title="IDEATHON"
+          description="Presentation of Innovative ideas "
+          date="21st  October, 2022"
         />
 
         <Carousel

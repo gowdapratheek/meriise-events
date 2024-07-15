@@ -6,6 +6,39 @@ function Event24() {
       <Header />
       <div className="lg:grid lg:grid-cols-2 lg:gap-4">
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
+        <Carousel
+          images={["/assets/events24/lbsce1.jpg"]}
+          title="Visit to LBSCE, Kasargod"
+          description="Visited Lal Bahadur Shashtri College of Engineering, Kasargod under the Mentor – mentee Programme of IIC. Dr. Geetha Kiran A appreciated the activities conducted by LBSCE and suggested to formulate a I&E policy and Startup Policy for the institute and make it available in their official websites. Suggestions were given to hold quarterly meetings regularly and keep the council active "
+          date="8th July, 2024"
+        />
+
+        <Carousel
+          images={["/assets/events24/gubbi1.jpg"]}
+          title="Visit to CIT, Gubbi"
+          description="Visited CIT, Gubbi, under the Mentor – mentee Programme of IIC. Dr. Geetha Kiran A appreciated the activities conducted by CIT, Gubbi and suggested to formulate a I&E policy and Startup Policy for the institute and make it available in their official websites. "
+          date="28th June, 2024"
+        />
+
+        <Carousel
+          images={["/assets/events24/mit.jpg"]}
+          title="Visit to MIT Thandavapura and Mysore"
+          description="Visited MIT, Thandavapura under the Mentor – mentee Programme of IIC. Dr. Geetha Kiran A provided insights appreciated the efforts put forth by IIC team of MIT, Thandavapura. She provided insights devising a startup policy and upload it in the institute website.
+          Visited MIT, Mysuru under the Mentor – mentee Programme of IIC. Dr. Geetha Kiran A provided insights on the activities conducted by MCE and guided IIC members of MIT to organize good number of activities in Q4 to achieve better star ratings. "
+          date="26th June, 2024"
+        />
+
+
+        <Carousel images={["/assets/events24/bit1.jpg",
+          "/assets/events24/bit2.jpg",
+          "/assets/events24/bit3.jpg",
+          "/assets/events24/bit4.jpg",
+          "/assets/events24/bit5.jpg"
+        ]}
+          title="Visit to BIT, Bengaluru"
+          description="Visited Bengaluru under the Mentor – mentee Programme of IIC. Dr. Geetha Kiran A provided insights on the activities conducted by MCE and guided BIT, IEDC to organize good number of activities in Q4 to achieve better star ratings."
+          date="13th June, 2024" />
+
 
         <Carousel
           images={["/assets/events24/eviv.jpg"]}

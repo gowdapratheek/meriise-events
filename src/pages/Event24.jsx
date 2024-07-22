@@ -8,6 +8,18 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/Pic1.jpg",
+                        "/assets/events24/Pic2.jpg",
+                        "/assets/events24/Pic3.jpg",
+                        "/assets/events24/Pic4.jpg",
+                        "/assets/events24/Pic5.jpg",
+                    ]}
+                    title="Innovation Expedition - Innovation and Entrepreneurship Exposure"
+                    description="Two day - Innovation Expedition - Innovation and Entrepreneurship Exposure Visit for Mentee Institutes on 19th and 20th July,2024"
+                    date="19th and 20th July, 2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/P1.jpg",
                         "/assets/events24/P2.jpg",
                         "/assets/events24/p3.jpg",
@@ -15,6 +27,7 @@ function Event24() {
                     title="Soft Skills Training Programme"
                     description="A three-day soft skills training program was organized from 08-07-2024 to 10-07-2024 for various programmes. Mr. Santhosh, facilitated the training on all the three days. The training programme aimed to enhance participants' interpersonal skills, communication abilities, and overall professional effectiveness.Participants gained proficiency in Adobe Photoshop and Illustrator, allowing them to create graphic designs, and design user interfaces for websites and applications. Additionally, they learnt advanced techniques in graphic design and video editing using Adobe After Effects, enhancing their ability to create visually appealing content across different platforms."
                     date=" 8th July – 10th July, 2024"
+                />
                 <Carousel
                     images={["/assets/events24/lbsce1.jpg"]}
                     title="Visit to LBSCE, Kasargod"

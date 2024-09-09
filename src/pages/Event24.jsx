@@ -15,7 +15,6 @@ function Event24() {
                         "/assets/events24/HR5.jpeg",
                         "/assets/events24/HR6.jpeg",
                         "/assets/events24/HR7.jpeg",
-                        "/assets/events24/HR8.jpeg",
                     ]}
                     title="MCE-HR SYNERGY"
                     description="MCE-HR Synergy was held on August 10th, 2024, at the Capitol Hotel in Bangalore. The event was attended by 80 HR professionals, and included a panel discussion on Campus to Corporate."
@@ -29,7 +28,7 @@ function Event24() {
                         "/assets/events24/Picture4.jpg",
                     ]}
                     title="Excel Essentials"
-                    description="We held a one-day workshop titled 'Excel Essentials,' which equipped industry and working professionals with essential skills in computer hardware and Excel, enhancing their productivity and efficiency in the workplace."
+                    description="One-day workshop was held as titled 'Excel Essentials,' which equipped industry and working professionals with essential skills in computer hardware and Excel, enhancing their productivity and efficiency in the workplace."
                     date="24th July, 2024"
                 />
                 <Carousel

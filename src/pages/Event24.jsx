@@ -8,6 +8,21 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/HR1.jpeg",
+                        "/assets/events24/HR2.jpeg",
+                        "/assets/events24/HR3.jpeg",
+                        "/assets/events24/HR4.jpeg",
+                        "/assets/events24/HR5.jpeg",
+                        "/assets/events24/HR6.jpeg",
+                        "/assets/events24/HR7.jpeg",
+                        "/assets/events24/HR8.jpeg",
+                    ]}
+                    title="MCE-HR SYNERGY"
+                    description="MCE-HR Synergy was held on August 10th, 2024, at the Capitol Hotel in Bangalore. The event was attended by 80 HR professionals, and included a panel discussion on Campus to Corporate."
+                    date="10th August, 2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/Picture1.jpg",
                         "/assets/events24/Picture2.jpg",
                         "/assets/events24/Picture3.jpg",

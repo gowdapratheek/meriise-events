@@ -8,15 +8,14 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
-                        "/assets/events24/Pic1.png",
-                        "/assets/events24/Pic2.jpeg",
-                        "/assets/events24/Pic3.jpeg",
-                        "/assets/events24/Pic4.jpeg",
-                        "/assets/events24/Pic5.jpeg",
+                        "/assets/events24/Picture1.jpg",
+                        "/assets/events24/Picture2.jpg",
+                        "/assets/events24/Picture3.jpg",
+                        "/assets/events24/Picture4.jpg",
                     ]}
-                    title="Innovation Expedition Entrepreneurship Exposure"
-                    description="Two day - Innovation Expedition - Innovation and Entrepreneurship Exposure Visit for Mentee Institutes on 19th and 20th July,2024"
-                    date="19th and 20th July, 2024"
+                    title="Excel Essentials"
+                    description="We held a one-day workshop titled 'Excel Essentials,' which equipped industry and working professionals with essential skills in computer hardware and Excel, enhancing their productivity and efficiency in the workplace."
+                    date="24th July, 2024"
                 />
                 <Carousel
                     images={[

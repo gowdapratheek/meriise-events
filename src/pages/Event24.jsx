@@ -8,6 +8,20 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/J1.jpeg",
+                        "/assets/events24/J2.jpeg",
+                        "/assets/events24/J3.jpeg",
+                        "/assets/events24/J4.jpeg",
+                        "/assets/events24/J5.jpeg",
+                        "/assets/events24/J6.jpeg",
+                        "/assets/events24/J7.jpeg",
+                    ]}
+                    title="Journey to Entrepreneurship"
+                    description="Journey to Entrepreneurship event was conducted on August 20th, 2024 "
+                    date="20th August, 2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/HR1.jpeg",
                         "/assets/events24/HR2.jpeg",
                         "/assets/events24/HR3.jpeg",

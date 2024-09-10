@@ -8,6 +8,42 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/RSL1.jpeg",
+                        "/assets/events24/RSL2.jpeg",
+                        "/assets/events24/RSL3.jpeg",
+                        "/assets/events24/RSL4.jpeg",
+                        "/assets/events24/RSL5.jpeg",
+                        "/assets/events24/RSL6.jpeg",
+                        "/assets/events24/RSL7.jpeg",
+                        "/assets/events24/RSL8.jpeg",
+                        "/assets/events24/RSL9.jpeg",
+                        "/assets/events24/RSL10.jpeg",
+                        "/assets/events24/RSL11.jpeg",
+                        "/assets/events24/RSL12.jpeg",
+                        "/assets/events24/RSL13.jpeg",
+                        "/assets/events24/RSL14.jpeg",
+                        "/assets/events24/RSL15.jpeg",
+                        "/assets/events24/RSL16.jpeg",
+                        "/assets/events24/RSL17.jpeg",
+                        "/assets/events24/RSL18.jpeg",
+                    ]}
+                    title="Robo Soccer League 2024"
+                    description="ME-RIISE Foundation organized a five-day RoboSoccer event from 2nd to 6th September 2024 for young engineers and tech enthusiasts. The program aimed to develop students' problem-solving skills and help them build their own robots.The event was inaugurated by Dr. Geetha Kiran A, CEO of ME-RIISE Foundation, and Dr. A J Krishnayya, Principal of MCE Hassan. Students explored visual programming, built robots using sensors and actuators, and enhanced their communication and technical skills.The event concluded with a thrilling RoboSoccer match, where students showcased their robots' capabilities. This hands-on experience empowered students with new skills and deeper knowledge of robotics."
+                    date="2nd September - 6th September,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/SIH1.jpeg",
+                        "/assets/events24/SIH2.jpeg",
+                        "/assets/events24/SIH3.jpeg",
+                        "/assets/events24/SIH4.jpeg",
+                    ]}
+                    title="Smart India Hackthon"
+                    description="ME-RIISE Foundation, in partnership with Agastya Research Foundation and Synopsys, organized Infusion 3.0 - Internal Smart India Hackathon on 3rd September 2024 at Malnad College of Engineering, Hassan. The event, coordinated by Dr. Geetha Kiran A, CEO of ME-RIISE Foundation, featured Dr. Shivarama from MITE, Mangalore, and Mrs. Madhushree C from MCE as jury. Mr. Bhaskar from Agastya Research Foundation sponsored the event and awarded the top 4 teams. Out of 16 participating teams, 4 teams were declared winners. The event concluded with 13 ideas shortlisted for Smart India Hackathon."
+                    date="3rd September,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/J1.jpeg",
                         "/assets/events24/J2.jpeg",
                         "/assets/events24/J3.jpeg",
@@ -17,7 +53,7 @@ function Event24() {
                         "/assets/events24/J7.jpeg",
                     ]}
                     title="Journey to Entrepreneurship"
-                    description="Journey to Entrepreneurship event was conducted on August 20th, 2024 "
+                    description="The primary objective of this session was to mentor and guide students from various institutions on the significance of entrepreneurship and the steps to successfully initiate and sustain a startup,particularly in the context of fostering innovation and economic growth."
                     date="20th August, 2024"
                 />
                 <Carousel

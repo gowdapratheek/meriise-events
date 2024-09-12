@@ -8,6 +8,17 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/S1.jpeg",
+                        "/assets/events24/S2.jpeg",
+                        "/assets/events24/S3.jpeg",
+                        "/assets/events24/S4.jpeg",
+                    ]}
+                    title="BOT BUILDING - TRAINERS MASTER CLASS"
+                    description="ME-RIISE Foundation dive into the world of bot creation with our specialized Master Class designed for trainers on 10th September 2024. This hands-on workshop will guide you through building a functional bot from scratch, tailored to enhance your understanding and skills. Explore key concepts, including bot architecture, conversational design, and real-world applications."
+                    date="10th September,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/RSL1.jpeg",
                         "/assets/events24/RSL2.jpeg",
                         "/assets/events24/RSL3.jpeg",

@@ -8,6 +8,22 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/Info.jpeg",
+                    ]}
+                    title="Infosys Finacle and Infosys subsidiary Edgeverve held pre-placement talk for 5th semester students"
+                    description="Infosys Finacle and Infosys subsidiary Edgeverve held pre-placement talk for 5th semester students of our college on 3rd October 2024. The talk was intended to introduce students to the company's culture, recruitment processes, and career opportunities. The HR team discussed the eligibility criteria and available profiles and answered candidates questions.Dr. A.J.Krishnaiah, Principal -Malnad College of Engineering, presided over the programme and Dr. Geetha Kiran A, Dean(Corporate Affairs) addressed students on the significance of the opportunity putforth by Infosys Finacle. Mr. Naresh, Vice President at Infosys Finacle, emphasized on importance of skill sets for final selection. Senior officials at Infosys Finacle Mr. Karthikeya and Mr. Arun Kumar, appraised the students for their current skill sets and briefed them about the steps involved in the selection process. Infosys Finacle will conduce a 5-6 week training programme, further to which an assessment will be done. The students qualifying the assessment will be offered placement at Infosys Finacle in the 5th semester. This offer comes with training in the 6th and 7th semester and leading to Stipend based Internship in the 8th semester at Infosys Finacle."
+                    date="03rd October,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/Evaluation.jpeg",
+                    ]}
+                    title="Innovate and Escalate"
+                    description="Malnad College of Engineering, Hassan hosted an idea pitching event, Innovate and Escalate on 3rd October, 2024. This event was convened by Dr. Geetha Kiran A, under New Age Innovation Network 2.0, Department of Electronics, IT, BT, S&T, Govt. of Karnataka.26 student innovations were evaluated by a jury panel from Industry and Academia.NAIN 2.0 will facilitate funding of upto Rs. 5lakh per project as a part of the scheme for 10 potential projects."
+                    date="03rd October,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/S1.jpeg",
                         "/assets/events24/S2.jpeg",
                         "/assets/events24/S3.jpeg",

@@ -8,15 +8,105 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
-                        "/assets/events24/Pic1.png",
-                        "/assets/events24/Pic2.jpeg",
-                        "/assets/events24/Pic3.jpeg",
-                        "/assets/events24/Pic4.jpeg",
-                        "/assets/events24/Pic5.jpeg",
+                        "/assets/events24/Info.jpeg",
                     ]}
-                    title="Innovation Expedition Entrepreneurship Exposure"
-                    description="Two day - Innovation Expedition - Innovation and Entrepreneurship Exposure Visit for Mentee Institutes on 19th and 20th July,2024"
-                    date="19th and 20th July, 2024"
+                    title="Infosys Finacle and Infosys subsidiary Edgeverve held pre-placement talk for 5th semester students"
+                    description="Infosys Finacle and Infosys subsidiary Edgeverve held pre-placement talk for 5th semester students of our college on 3rd October 2024. The talk was intended to introduce students to the company's culture, recruitment processes, and career opportunities. The HR team discussed the eligibility criteria and available profiles and answered candidates questions.Dr. A.J.Krishnaiah, Principal -Malnad College of Engineering, presided over the programme and Dr. Geetha Kiran A, Dean(Corporate Affairs) addressed students on the significance of the opportunity putforth by Infosys Finacle. Mr. Naresh, Vice President at Infosys Finacle, emphasized on importance of skill sets for final selection. Senior officials at Infosys Finacle Mr. Karthikeya and Mr. Arun Kumar, appraised the students for their current skill sets and briefed them about the steps involved in the selection process. Infosys Finacle will conduce a 5-6 week training programme, further to which an assessment will be done. The students qualifying the assessment will be offered placement at Infosys Finacle in the 5th semester. This offer comes with training in the 6th and 7th semester and leading to Stipend based Internship in the 8th semester at Infosys Finacle."
+                    date="03rd October,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/Evaluation.jpeg",
+                    ]}
+                    title="Innovate and Escalate"
+                    description="Malnad College of Engineering, Hassan hosted an idea pitching event, Innovate and Escalate on 3rd October, 2024. This event was convened by Dr. Geetha Kiran A, under New Age Innovation Network 2.0, Department of Electronics, IT, BT, S&T, Govt. of Karnataka.26 student innovations were evaluated by a jury panel from Industry and Academia.NAIN 2.0 will facilitate funding of upto Rs. 5lakh per project as a part of the scheme for 10 potential projects."
+                    date="03rd October,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/S1.jpeg",
+                        "/assets/events24/S2.jpeg",
+                        "/assets/events24/S3.jpeg",
+                        "/assets/events24/S4.jpeg",
+                    ]}
+                    title="BOT BUILDING - TRAINERS MASTER CLASS"
+                    description="ME-RIISE Foundation dive into the world of bot creation with our specialized Master Class designed for trainers on 10th September 2024. This hands-on workshop will guide you through building a functional bot from scratch, tailored to enhance your understanding and skills. Explore key concepts, including bot architecture, conversational design, and real-world applications."
+                    date="10th September,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/RSL1.jpeg",
+                        "/assets/events24/RSL2.jpeg",
+                        "/assets/events24/RSL3.jpeg",
+                        "/assets/events24/RSL4.jpeg",
+                        "/assets/events24/RSL5.jpeg",
+                        "/assets/events24/RSL6.jpeg",
+                        "/assets/events24/RSL7.jpeg",
+                        "/assets/events24/RSL8.jpeg",
+                        "/assets/events24/RSL9.jpeg",
+                        "/assets/events24/RSL10.jpeg",
+                        "/assets/events24/RSL11.jpeg",
+                        "/assets/events24/RSL12.jpeg",
+                        "/assets/events24/RSL13.jpeg",
+                        "/assets/events24/RSL14.jpeg",
+                        "/assets/events24/RSL15.jpeg",
+                        "/assets/events24/RSL16.jpeg",
+                        "/assets/events24/RSL17.jpeg",
+                        "/assets/events24/RSL18.jpeg",
+                    ]}
+                    title="Robo Soccer League 2024"
+                    description="ME-RIISE Foundation organized a five-day RoboSoccer event from 2nd to 6th September 2024 for young engineers and tech enthusiasts. The program aimed to develop students' problem-solving skills and help them build their own robots.The event was inaugurated by Dr. Geetha Kiran A, CEO of ME-RIISE Foundation, and Dr. A J Krishnayya, Principal of MCE Hassan. Students explored visual programming, built robots using sensors and actuators, and enhanced their communication and technical skills.The event concluded with a thrilling RoboSoccer match, where students showcased their robots' capabilities. This hands-on experience empowered students with new skills and deeper knowledge of robotics."
+                    date="2nd September - 6th September,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/SIH1.jpeg",
+                        "/assets/events24/SIH2.jpeg",
+                        "/assets/events24/SIH3.jpeg",
+                        "/assets/events24/SIH4.jpeg",
+                    ]}
+                    title="Smart India Hackthon"
+                    description="ME-RIISE Foundation, in partnership with Agastya Research Foundation and Synopsys, organized Infusion 3.0 - Internal Smart India Hackathon on 3rd September 2024 at Malnad College of Engineering, Hassan. The event, coordinated by Dr. Geetha Kiran A, CEO of ME-RIISE Foundation, featured Dr. Shivarama from MITE, Mangalore, and Mrs. Madhushree C from MCE as jury. Mr. Bhaskar from Agastya Research Foundation sponsored the event and awarded the top 4 teams. Out of 16 participating teams, 4 teams were declared winners. The event concluded with 13 ideas shortlisted for Smart India Hackathon."
+                    date="3rd September,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/J1.jpeg",
+                        "/assets/events24/J2.jpeg",
+                        "/assets/events24/J3.jpeg",
+                        "/assets/events24/J4.jpeg",
+                        "/assets/events24/J5.jpeg",
+                        "/assets/events24/J6.jpeg",
+                        "/assets/events24/J7.jpeg",
+                    ]}
+                    title="Journey to Entrepreneurship"
+                    description="The primary objective of this session was to mentor and guide students from various institutions on the significance of entrepreneurship and the steps to successfully initiate and sustain a startup,particularly in the context of fostering innovation and economic growth."
+                    date="20th August, 2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/HR1.jpeg",
+                        "/assets/events24/HR2.jpeg",
+                        "/assets/events24/HR3.jpeg",
+                        "/assets/events24/HR4.jpeg",
+                        "/assets/events24/HR5.jpeg",
+                        "/assets/events24/HR6.jpeg",
+                        "/assets/events24/HR7.jpeg",
+                    ]}
+                    title="MCE-HR SYNERGY"
+                    description="MCE-HR Synergy was held on August 10th, 2024, at the Capitol Hotel in Bangalore. The event was attended by 80 HR professionals, and included a panel discussion on Campus to Corporate."
+                    date="10th August, 2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/Picture1.jpg",
+                        "/assets/events24/Picture2.jpg",
+                        "/assets/events24/Picture3.jpg",
+                        "/assets/events24/Picture4.jpg",
+                    ]}
+                    title="Excel Essentials"
+                    description="One-day workshop was held as titled 'Excel Essentials,' which equipped industry and working professionals with essential skills in computer hardware and Excel, enhancing their productivity and efficiency in the workplace."
+                    date="24th July, 2024"
                 />
                 <Carousel
                     images={[

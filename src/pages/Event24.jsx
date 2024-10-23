@@ -8,6 +8,15 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/CC1.jpeg",
+                        "/assets/events24/CC2.jpeg",
+                    ]}
+                    title="CareerCraft - Shaping future pathways: Study & work in USA"
+                    description="On 14th October 2024, ME-RIISE Foundation and Malnad College of Engineering (MCE), Hassan, organized an impactful session titled CareerCraft: Shaping Future Pathways. The event, facilitated by Mr. Narendra U P from Mangalore Institute of Technology and Engineering, focused on diverse educational opportunities, internships, scholarships, and job prospects at Binghamton University, State University of New York, USA. Dr. Geetha Kiran A, Dean (Corporate Affairs) and CEO of ME-RIISE Foundation, initiated the session, offering students insights into pursuing higher education and careers in the USA."
+                    date="14th October,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/Info.jpeg",
                     ]}
                     title="Infosys Finacle and Infosys subsidiary Edgeverve held pre-placement talk for 5th semester students"

@@ -8,6 +8,15 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/MIT.jpeg",
+                        "/assets/events24/MIT1.jpeg"
+                    ]}
+                    title="Pathways to Global Education"
+                    description="Dr. Geetha Kiran A, Dean (Corporate Affairs) of Malnad College of Engineering, attended an orientation session for graduate schools in the USA at Mangalore Institute of Technology & Engineering (MITE), Mangalore, on 26th October, 2024 along with Dr. Mohana Lakshmi J, Associate Dean (Corporate Affairs) and students aspiring to pursue higher education abroad."
+                    date="26th October,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/CC1.jpeg",
                         "/assets/events24/CC2.jpeg",
                     ]}

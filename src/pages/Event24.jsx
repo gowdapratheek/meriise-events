@@ -8,8 +8,21 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/PBI1.jpeg",
+                        "/assets/events24/PBI2.jpeg",
+                        "/assets/events24/PBI3.jpeg",
+                        "/assets/events24/PBI4.jpeg",
+                        "/assets/events24/PBI5.jpeg",
+                        "/assets/events24/PBI6.jpeg",
+                    ]}
+                    title="Basics to Advanced Excel with Power BI for Business Insights"
+                    description="ME-RIISE FOUNDATION, in collaboration with MSME and DFO, Bengaluru, organized a one-week Management Development Programme titled “From Basics to Advanced Excel with Power BI for Business Insights” from November 4th to 8th, 2024. Supported by MSME and led by the faculty of MCE, this event was coordinated by Dr. Geetha Kiran A, CEO of ME-RIISE FOUNDATION and Dean (Corporate Affairs), who meticulously designed the curriculum with daily assessments. Participants found the program highly engaging, gaining valuable skills to enhance their professional capabilities,#MCE #MERIISEFOUNDATION #MSME"
+                    date="04th TO 08th November,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/MIT.jpeg",
-                        "/assets/events24/MIT1.jpeg"
+                        "/assets/events24/MIT1.jpeg",
                     ]}
                     title="Pathways to Global Education"
                     description="Dr. Geetha Kiran A, Dean (Corporate Affairs) of Malnad College of Engineering, attended an orientation session for graduate schools in the USA at Mangalore Institute of Technology & Engineering (MITE), Mangalore, on 26th October, 2024 along with Dr. Mohana Lakshmi J, Associate Dean (Corporate Affairs) and students aspiring to pursue higher education abroad."

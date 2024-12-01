@@ -2,7 +2,7 @@
 
 - Node.js installed
 
-## Getting Started
+## Get Started
 
 Follow these steps to get your project up and running:
 

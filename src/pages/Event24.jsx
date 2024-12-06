@@ -8,11 +8,11 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
-                        "/assets/events24/P24-1.jpeg",
-                        "/assets/events24/P24-2.jpeg",
-                        "/assets/events24/P24-3.jpeg",
-                        "/assets/events24/P24-4.jpeg",
-                        "/assets/events24/P24-5.jpeg",
+                        "/assets/events24/P24-1.png",
+                        "/assets/events24/P24-2.png",
+                        "/assets/events24/P24-3.png",
+                        "/assets/events24/P24-4.png",
+                        "/assets/events24/P24-5.png",
                         "/assets/events24/P24-6.jpeg",
                     ]}
                     title="Pragyatha-24 State Level Entrepreneurial Fest"

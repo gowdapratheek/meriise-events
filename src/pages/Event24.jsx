@@ -8,6 +8,19 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/P24-1.jpeg",
+                        "/assets/events24/P24-2.jpeg",
+                        "/assets/events24/P24-3.jpeg",
+                        "/assets/events24/P24-4.jpeg",
+                        "/assets/events24/P24-5.jpeg",
+                        "/assets/events24/P24-6.jpeg",
+                    ]}
+                    title="Pragyatha-24 State Level Entrepreneurial Fest"
+                    description="ME-RIISE FOUNDATION proudly hosted Pragyatha'24, a vibrant showcase of innovation and talent held from 29th November to 1st December, 2024. The event featured a series of dynamic workshops, hackathons, and competitions, fostering creativity, entrepreneurial spirit, and cutting-edge skills."
+                    date="29th November TO 1st December,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/PBI1.jpeg",
                         "/assets/events24/PBI2.jpeg",
                         "/assets/events24/PBI3.jpeg",

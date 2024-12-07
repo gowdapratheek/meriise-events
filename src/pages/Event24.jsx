@@ -13,7 +13,7 @@ function Event24() {
                         "/assets/events24/P24-3.png",
                         "/assets/events24/P24-4.png",
                         "/assets/events24/P24-5.png",
-                        "/assets/events24/P24-6.jpeg",
+                        "/assets/events24/P24-6.JPEG",
                     ]}
                     title="Pragyatha-24 State Level Entrepreneurial Fest"
                     description="ME-RIISE FOUNDATION proudly hosted Pragyatha'24, a vibrant showcase of innovation and talent held from 29th November to 1st December, 2024. The event featured a series of dynamic workshops, hackathons, and competitions, fostering creativity, entrepreneurial spirit, and cutting-edge skills."

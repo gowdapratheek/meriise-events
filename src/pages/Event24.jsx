@@ -18,10 +18,10 @@ function Event24() {
                 />
                 <Carousel
                     images={[
-                        "/assets/events24/SK15.jpg",
-                        "/assets/events24/SK16.jpg",
-                        "/assets/events24/SK17.jpg",
-                        "/assets/events24/SK18.jpg",
+                        "/assets/events24/SK15.jpeg",
+                        "/assets/events24/SK16.jpeg",
+                        "/assets/events24/SK17.jpeg",
+                        "/assets/events24/SK18.jpeg",
                     ]}
                     title="SNEHADA KADALU 2K24-Tech Talk"
                     description="The Tech Talk on 14th December 2024, organized by the ME-RIISE Foundation at Anantya Palace Grounds, Bangalore, was a resounding success. It served as a powerful platform for fostering knowledge-sharing and innovation, with speakers addressing pivotal topics in emerging technologies"

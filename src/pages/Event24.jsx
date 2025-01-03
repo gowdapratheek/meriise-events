@@ -12,16 +12,6 @@ function Event24() {
                         "/assets/events24/SK2.jpg",
                         "/assets/events24/SK3.jpg", 
                     ]}
-                    title=""
-                    description=""
-                    date="14th December,2024"
-                />
-                <Carousel
-                    images={[
-                        "/assets/events24/SK1.jpg",
-                        "/assets/events24/SK2.jpg",
-                        "/assets/events24/SK3.jpg", 
-                    ]}
                     title="SNEHADA KADALU 2K24-Shark Tank"
                     description="Shark Tank 3.0, organized by the ME-RIISE Foundation, was a remarkable event that provided a dynamic platform for entrepreneurs to showcase their innovative business ideas to potential investors. The event, held on 14th December 2024 at Anantya Palace Grounds, successfully facilitated funding, mentorship, and networking opportunities."
                     date="14th December,2024"

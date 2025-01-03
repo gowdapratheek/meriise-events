@@ -8,6 +8,45 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/SK1.JPG",
+                        "/assets/events24/SK2.JPG",
+                        "/assets/events24/SK3.JPG", 
+                    ]}
+                    title="SNEHADA KADALU 2K24-Shark Tank"
+                    description="Shark Tank 3.0, organized by the ME-RIISE Foundation, was a remarkable event that provided a dynamic platform for entrepreneurs to showcase their innovative business ideas to potential investors. The event, held on 14th December 2024 at Anantya Palace Grounds, successfully facilitated funding, mentorship, and networking opportunities."
+                    date="14th December,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/SK15.JPG",
+                        "/assets/events24/SK16.JPG",
+                        "/assets/events24/SK17.JPG",
+                        "/assets/events24/SK18.JPG",
+                    ]}
+                    title="SNEHADA KADALU 2K24-Tech Talk"
+                    description="The Tech Talk on 14th December 2024, organized by the ME-RIISE Foundation at Anantya Palace Grounds, Bangalore, was a resounding success. It served as a powerful platform for fostering knowledge-sharing and innovation, with speakers addressing pivotal topics in emerging technologies"
+                    date="14th December,2024"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/SK4.JPG",
+                        "/assets/events24/SK5.JPG",
+                        "/assets/events24/SK6.JPG",
+                        "/assets/events24/SK7.JPG",
+                        "/assets/events24/SK8.JPG",
+                        "/assets/events24/SK9.JPG",
+                        "/assets/events24/SK10.JPG",
+                        "/assets/events24/SK11.JPG",
+                        "/assets/events24/SK12.JPG",
+                        "/assets/events24/SK13.JPG",
+                        "/assets/events24/SK14.JPG", 
+                    ]}
+                    title="SNEHADA KADALU 2K24-Trade Show"
+                    description="The Trade Show held on 14th December 2024 at Anantya Palace Grounds, Bangalore, organized by ME-RIISE Foundation, successfully provided a platform for businesses to increase brand visibility, generate leads, and network with industry professionals. The event highlighted a diverse range of innovative products and services from various sectors, including construction, education, technology, real estate, and more. Key takeaways included establishing valuable connections with potential clients, gaining insights into industry trends, and positioning firms as trusted leaders in their respective fields. The event was instrumental in fostering relationships, promoting expertise, and advancing business growth."
+                    date="14th December,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/P24-1.png",
                         "/assets/events24/P24-2.png",
                         "/assets/events24/P24-3.png",

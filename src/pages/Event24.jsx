@@ -12,7 +12,7 @@ function Event24() {
                         "/assets/events24/SK2.jpg",
                         "/assets/events24/SK3.jpg", 
                     ]}
-                    title="SNEHADA KADALU 2K24-Shark Tank"
+                    title="Shark Tank 3.0"
                     description="Shark Tank 3.0, organized by the ME-RIISE Foundation, was a remarkable event that provided a dynamic platform for entrepreneurs to showcase their innovative business ideas to potential investors. The event, held on 14th December 2024 at Anantya Palace Grounds, successfully facilitated funding, mentorship, and networking opportunities."
                     date="14th December,2024"
                 />
@@ -23,7 +23,7 @@ function Event24() {
                         "/assets/events24/SK17.jpeg",
                         "/assets/events24/SK18.jpeg",
                     ]}
-                    title="SNEHADA KADALU 2K24-Tech Talk"
+                    title="Tech Talk 1.0"
                     description="The Tech Talk on 14th December 2024, organized by the ME-RIISE Foundation at Anantya Palace Grounds, Bangalore, was a resounding success. It served as a powerful platform for fostering knowledge-sharing and innovation, with speakers addressing pivotal topics in emerging technologies"
                     date="14th December,2024"
                 />
@@ -41,7 +41,7 @@ function Event24() {
                         "/assets/events24/SK13.jpg",
                         "/assets/events24/SK14.jpg", 
                     ]}
-                    title="SNEHADA KADALU 2K24-Trade Show"
+                    title="Trade Show 4.0"
                     description="The Trade Show held on 14th December 2024 at Anantya Palace Grounds, Bangalore, organized by ME-RIISE Foundation, successfully provided a platform for businesses to increase brand visibility, generate leads, and network with industry professionals. The event highlighted a diverse range of innovative products and services from various sectors, including construction, education, technology, real estate, and more. Key takeaways included establishing valuable connections with potential clients, gaining insights into industry trends, and positioning firms as trusted leaders in their respective fields. The event was instrumental in fostering relationships, promoting expertise, and advancing business growth."
                     date="14th December,2024"
                 />

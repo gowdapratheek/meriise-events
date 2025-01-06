@@ -60,6 +60,18 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/BTS1.jpg",
+                        "/assets/events24/BTS2.jpg",
+                        "/assets/events24/BTS3.jpg",
+                        "/assets/events24/BTS4.jpg",
+                        "/assets/events24/BTS5.jpg", 
+                    ]}
+                    title="Bangalore Tech Summit 2024"
+                    description="To showcase our innovative solutions and network with industry leaders at the Bangalore Tech Summit held on November 21st, 2024. To explore emerging technologies, gain insights, and identify collaboration opportunities to drive future growth. To establish our presence as a forward-thinking organization committed to leveraging technology for impactful outcomes."
+                    date="21st November,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/PBI1.jpeg",
                         "/assets/events24/PBI2.jpeg",
                         "/assets/events24/PBI3.jpeg",

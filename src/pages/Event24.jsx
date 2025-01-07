@@ -8,9 +8,13 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
-                        "/assets/events24/SK1.jpg",
-                        "/assets/events24/SK2.jpg",
-                        "/assets/events24/SK3.jpg", 
+                        "/assets/events24/SK19.jpeg",
+                        "/assets/events24/SK20.jpeg",
+                        "/assets/events24/SK21.jpeg",
+                        "/assets/events24/SK22.jpeg",
+                        "/assets/events24/SK23.jpeg",
+                        "/assets/events24/SK24.jpeg",
+
                     ]}
                     title="Shark Tank 3.0"
                     description="Shark Tank 3.0, organized by the ME-RIISE Foundation, was a remarkable event that provided a dynamic platform for entrepreneurs to showcase their innovative business ideas to potential investors. The event, held on 14th December 2024 at Anantya Palace Grounds, successfully facilitated funding, mentorship, and networking opportunities."
@@ -18,6 +22,9 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/SK1.jpg",
+                        "/assets/events24/SK2.jpg",
+                        "/assets/events24/SK3.jpg",
                         "/assets/events24/SK15.jpeg",
                         "/assets/events24/SK16.jpeg",
                         "/assets/events24/SK17.jpeg",
@@ -44,6 +51,16 @@ function Event24() {
                     title="Trade Show 4.0"
                     description="The Trade Show held on 14th December 2024 at Anantya Palace Grounds, Bangalore, organized by ME-RIISE Foundation, successfully provided a platform for businesses to increase brand visibility, generate leads, and network with industry professionals. The event highlighted a diverse range of innovative products and services from various sectors, including construction, education, technology, real estate, and more. Key takeaways included establishing valuable connections with potential clients, gaining insights into industry trends, and positioning firms as trusted leaders in their respective fields. The event was instrumental in fostering relationships, promoting expertise, and advancing business growth."
                     date="14th December,2024"
+                />
+                 <Carousel
+                    images={[
+                        "/assets/events24/TIE1.jpg",
+                        "/assets/events24/TIE2.jpg",
+                        "/assets/events24/TIE3.jpg", 
+                    ]}
+                    title="TIE Global Submit 2024"
+                    description="TIE Global Summit announced as the MCE is Satellite Host College and virtual sessions planned for students, the summit ensures its reach extends to the next generation of entrepreneurs. This initiative underscores TIE’s commitment to fostering a global entrepreneurial community that thrives on the integration of ancient wisdom and cutting-edge business practices."
+                    date="09th to 12th December,2024"
                 />
                 <Carousel
                     images={[

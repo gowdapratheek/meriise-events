@@ -8,6 +8,12 @@ function Event21() {
       <div className="lg:grid lg:grid-cols-2 lg:gap-4">
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
+          images={["/assets/events21/VS1.jpg"]}
+          title="Virtual School- UBA "
+          description="Empowered rural education through innovative teaching learning process"
+          date="June-July, 2021"
+        />
+        <Carousel
           images={["/assets/events20/rap.png"]}
           title="Rural awareness Programme "
           description="Induced interest in agriculture and trained them to use technology in agriculture"

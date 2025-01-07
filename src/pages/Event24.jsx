@@ -111,6 +111,15 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/JF1.jpeg",
+                        "/assets/events24/JF2.jpeg",
+                    ]}
+                    title="Job Fair"
+                    description="ME-RIISE Foundation is organized the Job Fair for recruitment in a manufacturing sector for candidates with SSLC, PUC, degree, ITI and diploma. To connect job seekers with potential employers, providing opportunities for networking, career advancement, and skill development."
+                    date="18th October,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/CC1.jpeg",
                         "/assets/events24/CC2.jpeg",
                     ]}

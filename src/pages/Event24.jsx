@@ -64,6 +64,14 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/Intuicent.jpeg",
+                    ]}
+                    title="ME-RIISE Foundation has MoU with Intuicent Innovations Private Limited"
+                    description="ME-RIISE Foundation and Intuicent Innovations Pvt. Ltd. signed an MoU to Establish Centre of Excellence for Cybersecurity, IoT, and Digital Forensics. The CoE will serve as a platform to equip students with practical knowledge and skills in emerging technologies, focusing on key areas such as cybersecurity, the Internet of Things (IoT), and digital forensics. The initiative also aims to encourage cutting-edge research and consultancy services, paving the way for industry-academia collaboration."
+                    date="30th November,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/P24-1.png",
                         "/assets/events24/P24-2.png",
                         "/assets/events24/P24-3.png",
@@ -229,6 +237,14 @@ function Event24() {
                     description="One-day workshop was held as titled 'Excel Essentials,' which equipped industry and working professionals with essential skills in computer hardware and Excel, enhancing their productivity and efficiency in the workplace."
                     date="24th July, 2024"
                 />
+                <Carousel 
+                   images={["/assets/events24/Ig1.jpeg",
+                    "/assets/events24/Ig2.jpeg",
+                    "/assets/events24/Ig3.jpeg",
+                ]}
+                    title="Igniting Young Mind 5.0"
+                    description="To inspire and empower students of GHS School, Megalakere, Channarayapatna to think creatively and develop innovative solutions to real-world problems through hands-on learning and mentorship."
+                    date="21st June 2024" />
                 <Carousel
                     images={[
                         "/assets/events24/P1.jpeg",
@@ -260,7 +276,6 @@ function Event24() {
           Visited MIT, Mysuru under the Mentor – mentee Programme of IIC. Dr. Geetha Kiran A provided insights on the activities conducted by MCE and guided IIC members of MIT to organize good number of activities in Q4 to achieve better star ratings. "
                     date="26th June, 2024"
                 />
-
 
                 <Carousel images={["/assets/events24/bit1.jpg",
                     "/assets/events24/bit2.jpg",

@@ -8,6 +8,15 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/NSD1.jpeg",
+                        "/assets/events24/NSD2.jpeg",
+                    ]}
+                    title="National Startup Day"
+                    description="The ME-RIISE Foundation, in collaboration with MSME DFO Bangalore, inauguration of National Start-up Day, aimed at celebrating and fostering the entrepreneurial spirit."
+                    date="17th January,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/SK19.jpeg",
                         "/assets/events24/SK20.jpeg",
                         "/assets/events24/SK21.jpeg",

@@ -31,9 +31,6 @@ function Event24() {
                 />
                 <Carousel
                     images={[
-                        "/assets/events24/SK1.jpg",
-                        "/assets/events24/SK2.jpg",
-                        "/assets/events24/SK3.jpg",
                         "/assets/events24/SK15.jpeg",
                         "/assets/events24/SK16.jpeg",
                         "/assets/events24/SK17.jpeg",

@@ -17,6 +17,17 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/ECD1.jpg",
+                        "/assets/events24/ECD2.jpg",
+                        "/assets/events24/ECD3.jpg",
+                        "/assets/events24/ECD4.jpg",
+                    ]}
+                    title="Energy Conservation Day"
+                    description="Energy Conservation Day, observed on December 14th every year in India, aims to raise awareness about the importance of saving energy and using it more efficiently. The objective of the day is to encourage people to adopt energy-saving practices in their daily lives, reduce energy consumption, and promote sustainable energy solutions."
+                    date="16th December,2024"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/SK19.jpeg",
                         "/assets/events24/SK20.jpeg",
                         "/assets/events24/SK21.jpeg",

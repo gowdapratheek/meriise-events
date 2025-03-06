@@ -8,6 +8,24 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/VP1.JPG",
+                        "/assets/events24/VP2.jpeg",
+                    ]}
+                    title="Validictory Program on Digital Skills"
+                    description="The Valedictory Program on Digital Skills held on March 1st, 2025, organized by ME-RIISE Foundation under the leadership of CEO Dr. Geetha Kiran A. During the event, internship certificates were awarded to 67 students. The chief guests were Mr. Yathiswar, Principal of AVK College, and Dr. Nanditha B. R."
+                    date="1st March,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/EV1.jpeg",
+                        "/assets/events24/EV2.jpeg",
+                    ]}
+                    title="Exposure Visit to NAIN 2.0"
+                    description="32 students and 3 faculty members of Surana College, Bangalore, visited Malnad College of Engineering (MCE) on 25th February 2025, for an Exposure Visit to the New Age Innovation Network (NAIN) facility. The visit fostered collaboration under the Institution’s Innovation Council (IIC)."
+                    date="25th February,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/NSD1.jpeg",
                         "/assets/events24/NSD2.jpeg",
                     ]}

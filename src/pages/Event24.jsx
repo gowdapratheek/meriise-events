@@ -19,6 +19,7 @@ function Event24() {
                     images={[
                         "/assets/events24/EV1.jpeg",
                         "/assets/events24/EV2.jpeg",
+                        "/assets/events24/EV3.jpeg",
                     ]}
                     title="Exposure Visit to NAIN 2.0"
                     description="32 students and 3 faculty members of Surana College, Bangalore, visited Malnad College of Engineering (MCE) on 25th February 2025, for an Exposure Visit to the New Age Innovation Network (NAIN) facility. The visit fostered collaboration under the Institution’s Innovation Council (IIC)."

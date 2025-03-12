@@ -14,7 +14,7 @@ function Event24() {
                         "/assets/events24/VC4.jpeg",
                         "/assets/events24/VC5.jpeg",
                     ]}
-                    title="Collaboration meeting with the Vice-Chancellors of Kodagu and Hassan University on 12th March, 2025 at Malnad College of Engineering, Hassan"
+                    title="Collaboration meeting with the Vice-Chancellors of Kodagu and Hassan University on 12th March, 2025 at MCE"
                     description="The meeting aimed to explore potential areas of collaboration between Malnad College of Engineering (MCE), ME-RIISE Foundation, and Kodagu & Hassan University. The key focus was on initiatives promoting entrepreneurship, skill enhancement, and innovation-led development within the region."
                     date="12th March,2025"
                 />

@@ -20,6 +20,14 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/VAI1.jpeg",
+                    ]}
+                    title="Workshop on Visual AI Technology"
+                    description="A workshop on Visual AI Technology was organized on 4th March, 2025 in association with Xen Reality Technologies, Bengaluru. The resource persons for the session were Ms. Zeba Khan, CEO of Xen Reality Technologies, and Mr. Rishab Shivkumar, Head of Product at Xen Reality Technologies."
+                    date="04th March,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/VP1.JPG",
                         "/assets/events24/VP2.jpeg",
                     ]}

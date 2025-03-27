@@ -8,6 +8,14 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/Elevate1.JPEG",
+                    ]}
+                    title="Inspired by the #ELEVATE2024 Recognition"
+                    description="Truly a momentous occasion  for the team Chathur Pravarthan Private Limited, Dr. Geetha Kiran A, Dr. Mohana lakshmi J to be recognized under #ELEVATE2024 and awarded by Shri. Priyank Kharge, Honorable Minister of IT, BT, and S&T. This recognition is a testament to their relentless pursuit of innovation and entrepreneurship."
+                    date="26th March,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/VC1.jpeg",
                         "/assets/events24/VC2.jpeg",
                         "/assets/events24/VC3.jpeg",

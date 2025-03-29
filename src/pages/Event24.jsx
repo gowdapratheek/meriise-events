@@ -19,6 +19,17 @@ function Event24() {
                 />
                 <Carousel
                     images={[
+                        "/assets/events24/codex1.jpeg",
+                        "/assets/events24/codex2.jpeg",
+                        "/assets/events24/codex3.jpeg",
+                        "/assets/events24/codex4.jpeg",
+                    ]}
+                    title="Codex-2025"
+                    description="Learn UI/UX principles and Figma basics, then design forms, navigation, and mobile app interfaces. Build projects, prototype, and gather user feedback for improvement."
+                    date="26th March,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/VC1.jpeg",
                         "/assets/events24/VC2.jpeg",
                         "/assets/events24/VC3.jpeg",

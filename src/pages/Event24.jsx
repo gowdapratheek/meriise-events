@@ -11,6 +11,7 @@ function Event24() {
                         "/assets/events24/Con1.jpeg",
                         "/assets/events24/Con2.jpeg",
                         "/assets/events24/Con3.jpeg",
+                        "/assets/events24/Con4.jpeg",
                     ]}
                     title="Concept to Customer: Essential Startup Roadmap"
                     description="IIIT Bangalore, facilitated a workshop Concept to Customer: Essential Startup Roadmap program under the New Age Innovation Network (NAIN) 2.0 at MCE, Hassan on 28th March, 2026. Around 60 students participated in the event. The event aimed to provide students with in-depth knowledge and essential skills in entrepreneurship, innovation, and the startup ecosystem, empowering them to transform their ideas into successful ventures."

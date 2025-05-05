@@ -8,10 +8,8 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
-                        "/assets/events24/Con1.jpeg",
-                        "/assets/events24/Con2.jpeg",
-                        "/assets/events24/Con3.jpeg",
-                        "/assets/events24/Con4.jpeg",
+                        "/assets/events24/alumnitalk01.jpeg",
+                        "/assets/events24/alumnitalk02.jpeg",
                     ]}
                     title="Bridging Generations - Alumni Insights"
                     description="A powerful start to Bridging Generations – Alumni Insights by @ME-RIISE Foundation at MCE, Hassan! We were honored to host Giri Devanur, Founder & CEO of ReAlpha and a two-time NASDAQ IPO leader, for the inaugural session. His insights on the 4S framework — Sankalpa, Shraddha, Sadhana, Siddhi — inspired all with timeless wisdom from the Yoga Sutras. Grateful to Geetha Kiran A and Krishnaswamy Subbarao for making this happen!."

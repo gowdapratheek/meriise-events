@@ -13,6 +13,17 @@ function Event24() {
                         "/assets/events24/Con3.jpeg",
                         "/assets/events24/Con4.jpeg",
                     ]}
+                    title="Bridging Generations - Alumni Insights"
+                    description="A powerful start to Bridging Generations – Alumni Insights by @ME-RIISE Foundation at MCE, Hassan! We were honored to host Giri Devanur, Founder & CEO of ReAlpha and a two-time NASDAQ IPO leader, for the inaugural session. His insights on the 4S framework — Sankalpa, Shraddha, Sadhana, Siddhi — inspired all with timeless wisdom from the Yoga Sutras. Grateful to Geetha Kiran A and Krishnaswamy Subbarao for making this happen!."
+                    date="26th April,2025"
+                />
+                <Carousel
+                    images={[
+                        "/assets/events24/Con1.jpeg",
+                        "/assets/events24/Con2.jpeg",
+                        "/assets/events24/Con3.jpeg",
+                        "/assets/events24/Con4.jpeg",
+                    ]}
                     title="Concept to Customer: Essential Startup Roadmap"
                     description="IIIT Bangalore, facilitated a workshop Concept to Customer: Essential Startup Roadmap program under the New Age Innovation Network (NAIN) 2.0 at MCE, Hassan on 28th March, 2026. Around 60 students participated in the event. The event aimed to provide students with in-depth knowledge and essential skills in entrepreneurship, innovation, and the startup ecosystem, empowering them to transform their ideas into successful ventures."
                     date="28th March,2025"

@@ -8,6 +8,17 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/UI workshop 1.png",
+                        "/assets/events24/UI workshop 2.png",
+                        "/assets/events24/UI workshop 3.png",
+                        "/assets/events24/UI workshop 4.png",
+                    ]}
+                    title="UI/UX Workshop"
+                    description="The UI/UX Workshop by EduTechSphere at ME-RIISE Foundation was a huge success! Participants immersed themselves in user interface and experience design, engaging in hands-on activities and insightful discussions. They showcased impressive app designs, reflecting creativity and strong user-focused principles. The event concluded with enthusiastic participation and glowing feedback, marking a truly impactful learning experience!."
+                    date="26th April,1st and 4th May,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/alumnitalk01.jpeg",
                         "/assets/events24/alumnitalk02.jpeg",
                     ]}

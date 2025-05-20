@@ -8,6 +8,16 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/PCB.jpeg",
+                        "/assets/events24/PCB2.jpeg",
+                        "/assets/events24/PCB3.jpeg",
+                    ]}
+                    title="Routing Hackathon with PCB"
+                    description="The ME-RIISE FOUNDATION, in collaboration with the Department of Electrical and Electronics Engineering, Malnad College of Engineering, successfully organized a 3-day event titled “Routing Hackathon with PCB” from 15th May 2025, under the New Age Innovation Network 2.0 (NAIN 2.0) initiative.The hackathon provided a dynamic platform for students to engage in practical learning through PCB design and routing. Participants had the opportunity to apply their technical skills, develop innovative solutions, and gain hands-on experience in solving real-world engineering challenges. The event also encouraged collaboration, creativity, and critical thinking—key qualities for future innovators.The event was graced by esteemed dignitaries from MTES(R) and MCE, who appreciated the initiative and motivated students to pursue innovation with purpose.."
+                    date="15th to 17th May, 2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/UI workshop 1.png",
                         "/assets/events24/UI workshop 2.png",
                         "/assets/events24/UI workshop 3.png",

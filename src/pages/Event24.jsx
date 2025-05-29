@@ -8,6 +8,27 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/innovator1.jpg",
+                        "/assets/events24/innovator2.jpg",
+                        "/assets/events24/innovator3.jpg",
+                        "/assets/events24/innovator4.jpg",
+                        "/assets/events24/innovator5.jpg",
+                    ]}
+                    title="Innovator to Entrepreneur: A Startup Readiness Session"
+                    description="ME-RIISE FOUNDATION successfully hosted – “Innovator to Entrepreneur: A Startup Readiness 
+                    Session” today at Malnad College of Engineering, Hassan, supported by NAIN 2.0 (New Age Innovation Network) 
+                    and the Department of Electronics, IT, BT and S&T, Government of Karnataka.We were honored to have Sri. 
+                    Ananth Ravi and Mr. Chetan Shirnali with us for this impactful session, which focused on Raising Capital 
+                    and Managing Finance for innovators and aspiring entrepreneurs.Malnad College of Engineering proudly serves 
+                    as the Program Monitoring Partner (PMP) under the Rajiv Gandhi Entrepreneurship Program (RGEP). Four 
+                    innovators are actively working with us under this program, and they had the valuable opportunity to be 
+                    mentored by today’s experts.As part of the event, research internship certificates were also awarded to 
+                    students who successfully completed their 15-week research internship.A big thank you to our speakers, 
+                    innovators, and participants for making the session highly engaging and insightful.."
+                    date="27th May,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/Alumni insights 1.jpeg",
                         "/assets/events24/Alumni insights.jpg",
                     ]}

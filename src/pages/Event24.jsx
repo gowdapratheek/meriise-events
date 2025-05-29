@@ -8,6 +8,15 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/Alumni insights 1.jpeg",
+                        "/assets/events24/aAlumni insights.jpeg",
+                    ]}
+                    title="Bridging Generations - Alumni Insights"
+                    description="From Leadership to Life Lessons. The second session today with Mr. Satyesh Bellur, Ex–Senior Vice President at Tejas Networks, was both insightful and inspiring. Centered around the theme “Business Etiquette – What is it all about?”, the discussion offered valuable perspectives—not just on professional conduct, but also on broader lessons in leadership and personal growth.."
+                    date="24th May,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/PCB.jpeg",
                         "/assets/events24/PCB2.jpeg",
                         "/assets/events24/PCB3.jpeg",

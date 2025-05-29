@@ -12,7 +12,7 @@ function Event24() {
                         "/assets/events24/innovator2.jpg",
                         "/assets/events24/innovator3.jpg",
                         "/assets/events24/innovator4.jpg",
-                        "/assets/events24/innovator5.jpg",
+                        "/assets/events24/innovaor5.jpg",
                     ]}
                     title="Innovator to Entrepreneur: A Startup Readiness Session"
                     description="ME-RIISE FOUNDATION successfully hosted – “Innovator to Entrepreneur: A Startup Readiness 

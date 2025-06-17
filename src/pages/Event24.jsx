@@ -8,6 +8,22 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
+                        "/assets/events24/RQPP.jpg",
+                        "/assets/events24/RQPP1.jpg",
+                        "/assets/events24/RQPP2.jpg",
+                    ]}
+                    title="Research Quest- Problem to paper"
+                    description="An inspiring session hosted by eduTechSphere in collaboration with the ME-RIISE Foundation 
+                    empowered students to tackle real-world problems with research-oriented solutions.Under the insightful 
+                    guidance of Mr. Prathamesh Joshi and Mr. Mohammad Fahad Khan, participants delved into the core principles 
+                    of Design Thinking—Empathize, Define, Ideate, Prototype, and Test—through interactive activities and 
+                    powerful project showcases.Innovative solutions like the Arecanut Plucker and the AI-Powered Cancer Detector 
+                    stood out, proving how research can create meaningful societal impact.A truly inspiring day of creativity, 
+                    critical thinking, and innovation!."
+                    date="14th June,2025"
+                />
+                <Carousel
+                    images={[
                         "/assets/events24/innovator1.jpg",
                         "/assets/events24/innovator2.jpg",
                         "/assets/events24/innovator3.jpg",

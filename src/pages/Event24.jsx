@@ -8,8 +8,8 @@ function Event24() {
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
                 <Carousel
                     images={[
-                        "/assets/events24/RQPP4.jpg",
-                        "/assets/events24/RQPP3.jpg",
+                        "/assets/events24/RQPP4.jpeg",
+                        "/assets/events24/RQPP3.png",
                     ]}
                     title="Research Quest- Problem to paper"
                     description="An inspiring session hosted by eduTechSphere in collaboration with the ME-RIISE Foundation 

@@ -6,7 +6,7 @@ function Event24() {
             <Header />
             <div className="lg:grid lg:grid-cols-2 lg:gap-4">
                 {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
-                <Carousel
+                {/* <Carousel
                     images={[
                         "/assets/events24/RQPP4.jpeg",
                         "/assets/events24/RQPP3.png",
@@ -149,8 +149,8 @@ function Event24() {
                     ]}
                     title="National Startup Day"
                     description="The ME-RIISE Foundation, in collaboration with MSME DFO Bangalore, inauguration of National Start-up Day, aimed at celebrating and fostering the entrepreneurial spirit."
-                    date="17th January,2025"
-                />
+                    date="17th January,2025" */}
+                {/* /> */}
                 <Carousel
                     images={[
                         "/assets/events24/ECD1.jpg",

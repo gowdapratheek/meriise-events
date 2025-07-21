@@ -14,7 +14,7 @@ export default function Event25() {
             // "/assets/events25/bg3.jpg",
             // "assets/events25/bg5.jpg",
           ]}
-          title="MCE HR Synergy 2.0"
+          title="MCE HR Synergy 2."
           description="Malnad College of Engineering successfully hosted MCE HR 
                     Synergy 2.0 on 12th July 2025 at The Capitol Hotel, Bengaluru, bringing 
                     together over 70 HR professionals and industry leaders for a dynamic 

@@ -11,6 +11,34 @@ export default function Event25() {
           images={[
             "/assets/events25/synergy1.jpg",
 
+            // "/assets/events25/Drone.jpeg",
+            // "/assets/events25/Drone1.jpeg",
+            // "/assets/events25/Drone2.jpeg",
+            // "/assets/events25/Drone3.jpeg",
+          ]}
+          title="Drone Quest 2k25"
+          description="Drone Quest 2k25, a 3-day hands-on drone bootcamp, was successfully organized by ME-RIISE 
+          FOUNDATION at Malnad College of Engineering (MCE), Hassan, from 22nd to 24th July 2025. The bootcamp was 
+          inaugurated by Dr. Geetha Kiran A , who expressed gratitude to the management of Malnad Technical Education 
+          Society (R) — Sri R. T. Dyavegowda (Chairman), Sri C. R. Jagadeesh (Secretary), Sri H. D. Parswanath 
+          (Treasurer), Dr. A. J. Krishniah (Principal, MCE) — for their continued encouragement in driving capacity-
+          building initiatives. 50+ students across the state actively participated, forming six teams that engaged in 
+          learning drone design, soldering, and assembly. On Day 2, students received training on drone software 
+          programming, sensor calibration, and simulations, along with engaging in interactive Kahoot sessions to 
+          reinforce learning through gamified quizzes.On Day 3, the management authorities of MTES(R) visited the demo 
+          arena, witnessed the student-built drone flights, and appreciated the efforts of Dr. Geetha Kiran A and Team 
+          NOTARC for successfully executing a high-impact technical program. The dignitaries remarked that such 
+          initiatives are crucial for equipping students with cutting-edge skills and real-world exposure. Over 500
+          students from institutions across Hassan — including Vijaya School, Malnad International School, Mangala PU 
+          College, AVK PU College, Holy Children School, and HRIHE — witnessed the drone demonstrations. The event 
+          concluded with live flying demonstrations followed by team presentations, announcement of winners, truly 
+          bringing the spirit of innovation and hands-on engineering to life."
+          date="22nd to 24th July 2025"
+        />
+        <Carousel
+          images={[
+            "/assets/events25/synergy1.jpg",
+
             // "/assets/events25/bg3.jpg",
             // "assets/events25/bg5.jpg",
           ]}

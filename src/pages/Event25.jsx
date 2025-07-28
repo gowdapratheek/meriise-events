@@ -9,6 +9,18 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/BG.jpg",
+          ]}
+          title="Bridging Generations – Alumni Insights"
+          description="An inspiring session - 4th Episode of Bridging Generations – Alumni Insights. We were honored to
+           host Dr. K S Jayantha, who took us through the incredible journey of MCE, shared how placements evolved under
+           his leadership, and offered invaluable career wisdom to our faculty, alumni, and students.🔑 Key takeaway? 
+           Believe in your strengths, build your network, and never stop learning. Thank you, Sir, for empowering the 
+           next generation with such clarity, conviction, and purpose!"
+          date="26th July 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/Drone.jpeg",
             "/assets/events25/Drone1.jpeg",
             "/assets/events25/Drone2.jpeg",

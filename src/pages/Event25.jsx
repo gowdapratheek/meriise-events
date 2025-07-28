@@ -9,12 +9,10 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
-            "/assets/events25/synergy1.jpg",
-
-            // "/assets/events25/Drone.jpeg",
-            // "/assets/events25/Drone1.jpeg",
-            // "/assets/events25/Drone2.jpeg",
-            // "/assets/events25/Drone3.jpeg",
+            "/assets/events25/Drone.jpeg",
+            "/assets/events25/Drone1.jpeg",
+           "/assets/events25/Drone2.jpeg",
+            "/assets/events25/Drone3.jpeg",
           ]}
           title="Drone Quest 2k25"
           description="Drone Quest 2k25 – Learn, Build & Fly, a three-day hands-on drone bootcamp, was successfully 

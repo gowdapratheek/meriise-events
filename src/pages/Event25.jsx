@@ -11,22 +11,21 @@ export default function Event25() {
           images={[
             "/assets/events25/Drone.jpeg",
             "/assets/events25/Drone1.jpeg",
-           "/assets/events25/Drone2.jpeg",
+            "/assets/events25/Drone2.jpeg",
             "/assets/events25/Drone3.jpeg",
           ]}
           title="Drone Quest 2k25"
-          description="Drone Quest 2k25 – Learn, Build & Fly, a three-day hands-on drone bootcamp, was successfully 
-          conducted by ME-RIISE FOUNDATION at Malnad College of Engineering (MCE), Hassan, from 22nd to 24th July 2025. 
-          The event was inaugurated by Dr. Geetha Kiran A, who thanked the MTES(R) management — Sri R. T. Dyavegowda, 
-          Sri C. R. Jagadeesh, Sri H. D. Parswanath, and Dr. A. J. Krishniah — for their continued support.Over 50 
-          students from across Karnataka formed six teams and participated in drone design, soldering, software 
-          programming, sensor calibration, and simulations. Interactive Kahoot quizzes added a gamified learning touch. 
-          On the final day, MTES(R) dignitaries witnessed student-built drone flights and appreciated Dr. Geetha Kiran A
-          and Team NOTARC for delivering a high-impact, skill-driven event.The bootcamp drew an audience of over 500 
-          students from local institutions like Vijaya School, Malnad International School, Mangala PU College, AVK PU 
-          College, Holy Children School, and HRIHE, who attended the live drone demonstrations. The event concluded 
-          with team presentations, winner announcements, and flying demos — truly showcasing innovation and practical 
-          learning in action."
+          description="Drone Quest 2k25 was successfully conducted by ME-RIISE FOUNDATION at Malnad College of
+          Engineering (MCE), Hassan, from 22nd to 24th July 2025. The event was inaugurated by Dr. Geetha Kiran A, who 
+          thanked the MTES(R) management — Sri R. T. Dyavegowda, Sri C. R. Jagadeesh, Sri H. D. Parswanath, and Dr. A. 
+          J. Krishniah — for their continued support.Over 50 students from across Karnataka formed six teams and 
+          participated in drone design, soldering, software programming, sensor calibration, and simulations. 
+          Interactive Kahoot quizzes added a gamified learning touch. On the final day, MTES(R) dignitaries witnessed 
+          student-built drone flights and appreciated Dr. Geetha Kiran A and Team NOTARC for delivering a high-impact, 
+          skill-driven event.The bootcamp drew an audience of over 500 students from local institutions like Vijaya 
+          School, Malnad International School, Mangala PU College, AVK PU College, Holy Children School, and HRIHE, who 
+          attended the live drone demonstrations. The event concluded with team presentations, winner announcements, 
+          and flying demos — truly showcasing innovation and practical learning in action."
           date="22nd to 24th July 2025"
         />
         <Carousel

@@ -94,7 +94,19 @@ export default function Event25() {
                     Kudos to the initiation of Dr. Geetha Kiran A and the unwavering support of Mr. krishnaswamy subbarao in making this impactful series a reality."
           date="28th June,2025"
         />
-
+        <Carousel
+          images={[
+            "/assets/events25/DIOP.jpg",
+            "/assets/events25/DIOP1.jpg",
+            "/assets/events25/DIOP2.jpg",
+            "/assets/events25/DIOP3.jpg",
+          ]}
+          title="District Level Innovation Outreach Program"
+          description="Ideas ignited, minds connected, and innovation came alive at the District Level Innovation 
+          Outreach Program held at MCE, Hassan 💡📸.A vibrant gathering of thinkers, doers, and future leaders on one 
+          inspiring stage 🚀🌟"
+          date="17th June 2025"
+        />
         <Carousel
           images={["/assets/events24/RQPP4.jpeg", "/assets/events24/RQPP3.png"]}
           title="Research Quest- Problem to paper"

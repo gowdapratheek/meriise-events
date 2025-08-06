@@ -162,6 +162,14 @@ export default function Event25() {
         />
         <Carousel
           images={[
+            "/assets/events24/EV.jpeg",
+          ]}
+          title="EV-Saksham"
+          description="ME-RIISE FOUNDATION, Malnad College of Engineering, Hassan, in collaboration with Capabl, hosted an inspiring orientation session on “EV-Saksham: Build EV – Ride EV & Gear Up for the EV Revolution” on 13th May 2025. With participation from 1st to 3rd-year students, the session marked the launch of the hands-on EV TECH FUSION program where 100+ students will build and test their own electric vehicles on campus. The event reflects MCE’s strong commitment to innovation-driven, experiential learning in emerging technologies like electric mobility."
+          date="13th May,2025"
+        />
+        <Carousel
+          images={[
             "/assets/events24/UI workshop 1.png",
             "/assets/events24/UI workshop 2.png",
             "/assets/events24/UI workshop 3.png",

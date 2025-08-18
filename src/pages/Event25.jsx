@@ -9,6 +9,17 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/Tantrasudha series.JPG",
+          ]}
+          title="TantraSudha Series- Startup Insights"
+          description="In the latest episode of ‘TantraSudha’, Dr. Geetha Kiran A, CEO of ME-RIISE Foundation and Dean 
+          (Corporate Affairs), MCE Hassan, spoke on the startup journey – from nurturing ideas to building sustainable 
+          ventures. She emphasized innovation, resilience, and the role of incubation in shaping student entrepreneurs.
+          🎙️ Produced by Akashavani Hassan in collaboration with Malnad College of Engineering."
+          date="17th August 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/IdeaHackathon1.jpeg",
             "/assets/events25/IdeaHackathon2.jpeg",
           ]}

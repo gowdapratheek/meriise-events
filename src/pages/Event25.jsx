@@ -9,6 +9,23 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/IdeaHackathon1.jpeg",
+            "/assets/events25/IdeaHackathon2.jpeg",
+          ]}
+          title="Idea Spark 3.0 – MSME Idea Hackathon 5.0"
+          description="Celebrating World Entrepreneurs’ Day
+            As part of this celebration, Idea Spark 3.0 – MSME Idea Hackathon 5.0 was organized by Malnad College of 
+            Engineering to provide a dynamic platform for students, innovators, and MSMEs to present their groundbreaking 
+            ideas. 💡🚀 The event highlighted the true spirit of innovation, entrepreneurship, and problem-solving, 
+            inspiring future changemakers to turn ideas into impactful ventures. 🌟The event was convened by the CEO of 
+            ME-RIISE FOUNDATION, Dr. Geetha Kiran A, also the BI Incharge, who put forth the theme of innovation-driven 
+            entrepreneurship and emphasized the importance of nurturing ideas that create real-world impact.The 
+            innovative ideas were evaluated by a panel of experts from industry, academia, and entrepreneurship, 
+            who provided impactful suggestions to help shape and strengthen the participants’ concepts."
+          date="16th August 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/BG.jpg",
           ]}
           title="Bridging Generations – Alumni Insights"

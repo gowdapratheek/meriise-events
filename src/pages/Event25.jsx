@@ -16,7 +16,7 @@ export default function Event25() {
           (Corporate Affairs), MCE Hassan, spoke on the startup journey – from nurturing ideas to building sustainable 
           ventures. She emphasized innovation, resilience, and the role of incubation in shaping student entrepreneurs.
           🎙️ Produced by Akashavani Hassan in collaboration with Malnad College of Engineering."
-          Youtube Link- https://youtu.be/L0evUn59A4Q?si=cTFfKe-uyWPJp_3d
+           youtubeLink="https://youtu.be/L0evUn59A4Q?si=cTFfKe-uyWPJp_3d"
           date="17th August 2025"
         />
         <Carousel

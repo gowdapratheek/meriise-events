@@ -46,7 +46,6 @@ export default function Event25() {
         />
         <Carousel
           images={[
-            "/assets/events25/IdeaHackathon1.jpeg",
             "/assets/events25/IdeaHackathon2.jpeg",
           ]}
           title="Idea Spark 3.0 – MSME Idea Hackathon 5.0"

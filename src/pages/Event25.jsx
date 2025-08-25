@@ -9,6 +9,31 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/alumni1.jpeg",
+            "/assets/events25/alumni2.jpeg",
+            "/assets/events25/alumni3.jpeg",
+            "/assets/events25/alumni4.jpeg",
+            "/assets/events25/alumni5.jpeg",
+            "/assets/events25/alumni6.jpeg",
+          ]}
+          title="Bridging Generations – Alumni Insights"
+          description="ME-RIISE FOUNDATION was honored to host Dr. Shivananda Koteshwar, The Other Life , Senior Vice 
+          President at Astera Labs and a proud alumnus of Malnad College of Engineering, Hassan (Electronics, 1991–95),
+          for an inspiring session with our students and faculty members. 
+          From his early days at Malnad College to leading in the global AI and semiconductor industry, Dr. Shivananda 
+          shared invaluable insights on:
+         🔹 The changing landscape of AI infrastructure and chip design
+         🔹 Challenges of connectivity, compute, and carbon neutrality
+         🔹 The power of friendships, resilience, and continuous learning
+         🔹 Life anchors that shift from self to others, and creating lasting impact
+          His candid stories—from campus struggles to becoming a thought leader—deeply resonated with our students, 
+          reminding them to dream big, stay curious, and never stop learning. 🚀📘
+          🙏 We sincerely thank Dr. Shivananda Koteshwar, The Other Life for reconnecting with his alma mater and 
+          inspiring the next generation of innovators, students and faculty of Malnad College of Engineering"
+          date="23rd August 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/Tantrasudha series.JPG",
           ]}
           title="TantraSudha Series- Startup Insights"

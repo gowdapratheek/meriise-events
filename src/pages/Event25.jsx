@@ -9,6 +9,23 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/DigitalSakhi.jpeg",
+          ]}
+          title="Digital Sakhi:For Smart Womens"
+          description="ME-RIISE FOUNDATION successfully organized the Digital Sakhi program at Adichunchanagiri Mahila 
+          Vokkaligara Kshemabhivruddhi Sangha, Hassan on 16th September 2025.The session, facilitated by Dr. Geetha 
+          Kiran A, Dean (Corporate Affairs), Malnad College of Engineering & CEO, ME-RIISE Foundation, focused on 
+          empowering women with digital and financial literacy through practical demonstrations on:📦 Using Blinkit for 
+          instant deliveries🚖 Booking rides with Ola/Uber for nearby and unknown places🛫 Going paperless at airports
+          with Digi Yatra🗺 Navigating with Google Maps. The event witnessed enthusiastic participation, lively 
+          interactions, and valuable discussions on how technology can simplify daily life and empower women to become
+          digitally smart.ME-RIISE FOUNDATION extends its appreciation to the Directors and Members of Adichunchanagiri
+          Mahila Vokkaligara Kshemabhivruddhi Sangha for their collaboration and support.We look forward to bring many
+          more such initiatives that enable women to embrace technology with confidence and ease. 🌸"
+          date="16th September 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/Idea to proto 1.jpeg",
             "/assets/events25/Idea to proto 2.jpeg",
           ]}

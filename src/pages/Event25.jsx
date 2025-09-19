@@ -16,17 +16,15 @@ export default function Event25() {
           description="ME-RIISE FOUNDATION facilitated the Day 5 and Day 6 innovation-driven induction program at 
           Malnad College of Engineering designed to introduce first-year students to design thinking, problem-solving,
           and hands-on prototyping. The two-day workshop was facilitated by ME-RIISE FOUNDATION and team, along with 
-          student volunteers. 
-          🔹 Day 5 – Ignition: Idea to Proto Students were guided by Geetha Kiran A, Dean (Corporate Affairs), through 
-          the principles of Design Thinking. With mentor support, they crafted problem statements and pitched their 
-          initial ideas. Post-lunch, students explored the fundamentals of bot building and assembled their first 
-          prototypes. 
-          🔹 Day 6 – Build and Battle: Engineering the Future, One Race at a Time. Teams simultaneously worked on 
-          presenting innovative solutions and fine-tuning their bots. The highlight of the day was an exciting Bot 
-          Race, where creativity, engineering skills, and teamwork came alive on track. The top two teams were 
-          recognized for their performance in the two days event.✨ This induction program offered students a complete
-          innovation cycle experience—from identifying challenges to building prototypes and competing in real-world 
-          simulations"
+          student volunteers. 🔹 Day 5 – Ignition: Idea to Proto Students were guided by Geetha Kiran A, Dean
+          (Corporate Affairs), through the principles of Design Thinking. With mentor support, they crafted problem 
+          statements and pitched their initial ideas. Post-lunch, students explored the fundamentals of bot building 
+          and assembled their first prototypes. 🔹 Day 6 – Build and Battle: Engineering the Future, One Race at a Time.
+          Teams simultaneously worked on presenting innovative solutions and fine-tuning their bots. The highlight of 
+          the day was an exciting Bot Race, where creativity, engineering skills, and teamwork came alive on track. 
+          The top two teams were recognized for their performance in the two days event.✨ This induction program 
+          offered students a complete innovation cycle experience—from identifying challenges to building prototypes 
+          and competing in real-world simulations"
           date="12th & 13th September 2025"
         />
         <Carousel

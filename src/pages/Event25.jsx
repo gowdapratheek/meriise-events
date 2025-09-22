@@ -9,6 +9,23 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/SIH1.jpeg",
+            "/assets/events25/SIH2.jpeg",
+          ]}
+          title="INFUSION 4.0 – Internal Smart India Hackathon"
+          description="INFUSION 4.0 – Internal Smart India Hackathon Malnad College of Engineering Pleased to share 
+          that we successfully hosted INFUSION 4.0 on 17th September 2025, where 19 student teams presented their 
+          innovative solutions. After rigorous evaluation, 16 impactful ideas have been shortlisted for the National 
+          Smart India Hackathon 2025 among which 4 exceptional teams were recognised as winners.Grateful to our esteemed
+          jury members – Prof. Madhushree, Prof. Bhaskar, and Dr. Shivramu – for their time, evaluation, and guidance 
+          to our young innovators.Geetha Kiran A sincerely expressed her gratitude to the Management, Director, and 
+          Principal of Malnad College of Engineering for their constant support in successfully organising this 
+          initiative in association with Synopsys and Agasthya Research Foundation.Together, we continue to nurture a 
+          strong culture of innovation, entrepreneurship, and societal impact at MCE. 💡✨"
+          date="17th September 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/DigitalSakhi.jpeg",
             "/assets/events25/DigitalSakhi2.jpeg",
             "/assets/events25/DigitalSakhi 3.jpeg",

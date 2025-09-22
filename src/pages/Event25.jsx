@@ -10,6 +10,8 @@ export default function Event25() {
         <Carousel
           images={[
             "/assets/events25/DigitalSakhi.jpeg",
+            "/assets/events25/DigitalSakhi2.jpeg",
+            "/assets/events25/DigitalSakhi3.jpeg",
           ]}
           title="Digital Sakhi:For Smart Womens"
           description="ME-RIISE FOUNDATION successfully organized the Digital Sakhi program at Adichunchanagiri Mahila 
@@ -28,6 +30,7 @@ export default function Event25() {
           images={[
             "/assets/events25/Idea to proto 1.jpeg",
             "/assets/events25/Idea to proto 2.jpeg",
+            "/assets/events25/Idea to proto 3.jpeg",
           ]}
           title="Ignition: Idea to Proto"
           description="ME-RIISE FOUNDATION facilitated the Day 5 and Day 6 innovation-driven induction program at 

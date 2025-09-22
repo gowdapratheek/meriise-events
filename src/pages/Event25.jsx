@@ -11,7 +11,7 @@ export default function Event25() {
           images={[
             "/assets/events25/DigitalSakhi.jpeg",
             "/assets/events25/DigitalSakhi2.jpeg",
-            "/assets/events25/DigitalSakhi3.jpeg",
+            "/assets/events25/DigitalSakhi 3.jpeg",
           ]}
           title="Digital Sakhi:For Smart Womens"
           description="ME-RIISE FOUNDATION successfully organized the Digital Sakhi program at Adichunchanagiri Mahila 

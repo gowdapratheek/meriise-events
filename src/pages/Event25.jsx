@@ -11,6 +11,7 @@ export default function Event25() {
           images={[
             "/assets/events25/SIH1.jpeg",
             "/assets/events25/SIH2.jpeg",
+            "/assets/events25/SIH3.jpeg",
           ]}
           title="INFUSION 4.0 – Internal Smart India Hackathon"
           description="INFUSION 4.0 – Internal Smart India Hackathon Malnad College of Engineering Pleased to share 
@@ -47,7 +48,6 @@ export default function Event25() {
           images={[
             "/assets/events25/Idea to proto 1.jpeg",
             "/assets/events25/Idea to proto 2.jpeg",
-            "/assets/events25/Idea to proto 3.jpeg",
           ]}
           title="Ignition: Idea to Proto"
           description="ME-RIISE FOUNDATION facilitated the Day 5 and Day 6 innovation-driven induction program at 

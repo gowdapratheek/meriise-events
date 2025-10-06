@@ -9,6 +9,22 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/EV (1).jpeg",
+            "/assets/events25/EV (2).jpeg",
+          ]}
+          title=" EV Saksham Tech Fusion "
+          description="🚀 ME-RIISE FOUNDATION proudly organized the EV Saksham Tech Fusion Program for the students of 
+          Malnad College of Engineering, Hassan, in association with Capabl India. Through this initiative, our students
+          designed, built, and showcased their own Electric and IC Engine Vehicles from scratch.The event provided 
+          students real-time exposure to design, fabrication, and driving, bringing their engineering ideas to life on 
+          the road. This milestone reflects our commitment to build an innovation-driven ecosystem and nurture future 
+          entrepreneurs from the Malnad region.
+          Kudos to the efforts of our CEO, Dr.Geetha Kiran A for initiating the one of its kind and making this a great 
+          success."
+          date="26th September 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/SIH1.jpeg",
             "/assets/events25/SIH2.jpeg",
             "/assets/events25/SIH3.jpeg",

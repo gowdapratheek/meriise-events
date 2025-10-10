@@ -22,7 +22,7 @@ export default function Event25() {
           (Corporate Affairs), MCE, this initiative reflects ME-RIISE Foundation’s mission to empower students through 
           innovation, sustainability, and real-world problem-solving.At MCE, ME-RIISE Foundation continues to bridge 
           academia and industry — nurturing future engineers and entrepreneurs ready to make an impact."
-          date="Batch 1- 26th September to 4th October 2025 & Batch 2- 4th t0 9th October 2025"
+          date="Batch 1- 26th September to 4th October 2025 & Batch 2- 4th to 9th October 2025"
         />
         <Carousel
           images={[

@@ -9,19 +9,20 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
-            "/assets/events25/EV (1).jpeg",
-            "/assets/events25/EV (2).jpeg",
+            "/assets/events25/EV Tech Fusion.jpeg",
+            "/assets/events25/EV Tech Fusion 1.jpeg",
           ]}
           title=" EV Saksham Tech Fusion "
-          description="🚀 ME-RIISE FOUNDATION proudly organized the EV Saksham Tech Fusion Program for the students of 
-          Malnad College of Engineering, Hassan, in association with Capabl India. Through this initiative, our students
-          designed, built, and showcased their own Electric and IC Engine Vehicles from scratch.The event provided 
-          students real-time exposure to design, fabrication, and driving, bringing their engineering ideas to life on 
-          the road. This milestone reflects our commitment to build an innovation-driven ecosystem and nurture future 
-          entrepreneurs from the Malnad region.
-          Kudos to the efforts of our CEO, Dr.Geetha Kiran A for initiating the one of its kind and making this a great 
-          success."
-          date="26th September 2025"
+          description="ME-RIISE Foundation, Malnad College of Engineering (MCE), Hassan, in association with CAPABL 
+          India, successfully conducted the EV Saksham Tech Fusion program — a unique hands-on initiative where students
+          designed, built, and drove both electric and IC vehicles entirely from scratch.100+ students from Mechanical, 
+          Electrical, and E&I Engineering took part in two batches — building two IC and two EV, resulting in a total of
+          four fully functional vehicles. From design to fabrication and on-road testing, students showcased teamwork, 
+          creativity, and technical excellence.Spearheaded by Dr. Geetha Kiran A., CEO – ME-RIISE Foundation and Dean 
+          (Corporate Affairs), MCE, this initiative reflects ME-RIISE Foundation’s mission to empower students through 
+          innovation, sustainability, and real-world problem-solving.At MCE, ME-RIISE Foundation continues to bridge 
+          academia and industry — nurturing future engineers and entrepreneurs ready to make an impact."
+          date="Batch 1- 26th September to 4th October 2025 & Batch 2- 4th t0 9th October 2025"
         />
         <Carousel
           images={[

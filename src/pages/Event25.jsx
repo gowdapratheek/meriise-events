@@ -9,6 +9,35 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/Igniting Young Minds 6 (1).jpeg",
+            "/assets/events25/Igniting Young Minds 6 (2).jpeg",
+          ]}
+          title="Igniting Young Minds 6.0"
+          description="On October 15 & 16, 2025, ME-RIISE FOUNDATION team, led by Dr. Geetha Kiran A, Dean 
+          (Corporate Affairs) and CEO of ME-RIISE FOUNDATION, Malnad College of Engineering conducted an exciting 
+          two-day hands-on robotics workshop for the 9th standard students of Christ School, Hassan. The young 
+          participants were guided by ME-RIISE FOUNDATION team along with students from the department of AIML. 
+          They delved into the fascinating world of robotics — designing, assembling, and programming their own 
+          robots from scratch. The workshop concluded with an exciting robot race, where these budding innovators 
+          demonstrated creativity, teamwork, and problem-solving skills. 💡⚙️"
+          date="15th & 16th October 2025"
+        />
+        <Carousel
+          images={[
+            "/assets/events25/Digital2.0.jpeg",
+          ]}
+          title=" Digital Sakhi 2.0 for Smart Women "
+          description="ME-RIISE Foundation, led by Dr. Geetha Kiran A., conducted a one-day “Digital Sakhi 2.0” 
+          program on 11th October 2025 at Hotel Jewel Rock, Hassan for the ladies of Kuvempu Mahila Samaja. The 
+          session aimed to empower women to become digitally confident by learning everyday smartphone skills — 
+          from using Google Maps, Blinkit, and WhatsApp, to exploring PhonePe’s Split Expense feature and essential
+          mobile settings.ME-RIISE foundation members guided participants with hands-on, making the session 
+          interactive and practical.
+          ✨ Empowering women with digital skills—one click at a time"
+          date="11th October 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/EV Tech Fusion.jpeg",
             "/assets/events25/EV Tech Fusion 1.jpeg",
           ]}

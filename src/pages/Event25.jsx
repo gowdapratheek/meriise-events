@@ -9,6 +9,19 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/BG7.1.jpg",
+          ]}
+          title="Bridging generations-Alumni Insights"
+          description="Bridging generations, exchanging wisdom, and nurturing meaningful professional connections - Episode 7
+          7th episode of Bridging Generations, Alumni Insights session organised by ME-RIISE FOUNDATION Malnad 
+          College of Engineering with Ms. Asha Kiran B (Batch of 1987, ECE) beautifully highlighted that 
+          “ Networking is truly Networth .”Thank you, Asha Kiran Ma’am, for your warmth, guidance, and inspiring 
+          reflections that encouraged our students to Connect, Collaborate, and Elevate their journeys. 🤝✨
+          Kudos to Geetha Kiran A, krishnaswamy subbarao for the continued efforts. "
+          date="25th October 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/Igniting Young Minds 6 (1).jpeg",
             "/assets/events25/Igniting Young Minds 6 (2).jpeg",
           ]}

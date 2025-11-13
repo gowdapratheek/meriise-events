@@ -9,6 +9,15 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/Empowering.jpeg",
+          ]}
+          title="Empowering innovation in the Malnad region!"
+          description="A one-day Incubation Awareness Program was successfully conducted by MSME DIC Hassan, in 
+          association with ME-RIISE FOUNDATION and Malnad College of Engineering, under the RAMP initiative. "
+          date="6th November 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/BG7.1.jpg",
           ]}
           title="Bridging generations-Alumni Insights"

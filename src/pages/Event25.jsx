@@ -9,7 +9,7 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
-            "/assets/events25/public/assets/events25/IIC 2025.jpg",
+            "/assets/events25/IIC 2025.jpg",
           ]}
           title="IIC Regional Meet 2025"
           description="It was a great privilege that the presentation made by Dr. Geetha Kiran A., CEO, ME-RIISE 
@@ -24,12 +24,12 @@ export default function Event25() {
         />
          <Carousel
           images={[
-            "/assets/events25/public/assets/events25/BTS1 (1).jpeg",
-            "/assets/events25/public/assets/events25/BTS1 (2).jpeg",
-            "/assets/events25/public/assets/events25/BTS1 (3).jpeg",
-            "/assets/events25/public/assets/events25/BTS1 (4).jpeg",
-            "/assets/events25/public/assets/events25/BTS1 (5).jpeg",
-            "/assets/events25/public/assets/events25/BTS1 (6).jpeg",
+            "/assets/events25/BTS1 (1).jpeg",
+            "/assets/events25/BTS1 (2).jpeg",
+            "/assets/events25/BTS1 (3).jpeg",
+            "/assets/events25/BTS1 (4).jpeg",
+            "/assets/events25/BTS1 (5).jpeg",
+            "/assets/events25/BTS1 (6).jpeg",
           ]}
           title="Bengaluru Tech Summit 2025"
           description="A landmark achievement for ME-RIISE FOUNDATION and Malnad College of Engineering!At the 

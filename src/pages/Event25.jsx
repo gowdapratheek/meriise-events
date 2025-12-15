@@ -9,6 +9,41 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/public/assets/events25/IIC 2025.jpg",
+          ]}
+          title="IIC Regional Meet 2025"
+          description="It was a great privilege that the presentation made by Dr. Geetha Kiran A., CEO, ME-RIISE 
+          FOUNDATION & President, IIC Malnad College of Engineering , on the IIC activities and the vibrant 
+          innovation ecosystem fostered at Malnad College of Engineering during the Ministry of Education’s 
+          IIC Regional Meet 2025, held at M. S. Ramaiah Institute of Applied Sciences, Bengaluru, along with 
+          Dr. Supriya M. J., Convenor, IIC; Dr. Mohana Lakshmi J., Startup Convener; and Ms. Amrutha D. S., 
+          IIC Member, was recognized with the Best IIC Poster Award.The sustained efforts of ME-RIISE FOUNDATION 
+          and Malnad College of Engineering in building a robust innovation ecosystem within the institute and
+          beyond underscore our strong commitment to foster innovation and entrepreneurship. 👏✨  "
+          date=" 2nd December 2025"
+        />
+         <Carousel
+          images={[
+            "/assets/events25/public/assets/events25/BTS1 (1).jpeg",
+            "/assets/events25/public/assets/events25/BTS1 (2).jpeg",
+            "/assets/events25/public/assets/events25/BTS1 (3).jpeg",
+            "/assets/events25/public/assets/events25/BTS1 (4).jpeg",
+            "/assets/events25/public/assets/events25/BTS1 (5).jpeg",
+            "/assets/events25/public/assets/events25/BTS1 (6).jpeg",
+          ]}
+          title="Bengaluru Tech Summit 2025"
+          description="A landmark achievement for ME-RIISE FOUNDATION and Malnad College of Engineering!At the 
+          Bengaluru Tech Summit 2025, ME-RIISE FOUNDATION and Malnad College of Engineering, represented by
+          Dr. Geetha Kiran A., received the cheque of ₹10 crore grant to establish Technology Business Incubator 
+          (TBI) 2.0.We are grateful to the Hon. Minister for IT & BT, Shri Priyank M Kharge, IT BT Department, 
+          Karnataka, Ravi Ananth and entire MCE Management for the support, recognition and encouragement.This
+          milestone reflects the strong innovation and entrepreneurship ecosystem fostered by ME-RIISE FOUNDATION 
+          over the years.Heartfelt congratulations to Dr. Geetha Kiran A , CEO, ME-RIISE FOUNDATION , and the 
+          entire team for this collective success.Mohana Lakshmi J  "
+          date=" 20th November 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/Empowering.jpeg",
           ]}
           title="Empowering innovation in the Malnad region!"

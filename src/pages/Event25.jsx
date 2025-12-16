@@ -22,6 +22,24 @@ export default function Event25() {
           beyond underscore our strong commitment to foster innovation and entrepreneurship. 👏✨  "
           date=" 2nd December 2025"
         />
+        <Carousel
+          images={[
+            "/assets/events25/Semiconductor.jpeg",
+          ]}
+          title="Semiconductor Science: Innovation Meets Creativity"
+          description=" ME-RIISE FOUNDATION, Malnad College of Engineering, in association with the Departments of
+           ECE, EEE, and First Year, organized a technical session titled “Semiconductor Science: Innovation Meets 
+           Creativity” on 1 December 2025.The session was facilitated by Suresh Honnenahalli. The event was 
+           convened by Dr. Geetha Kiran A and was graced by 1983 batch alumni Dr. K. S. Jayantha, Eswar Prasad, 
+           Ramesh, Satish, and Narayana Ramanujam.In his address, Mr. Suresh Honnenahalli shared insights on how 
+           students can build successful careers in the semiconductor domain and encouraged them to take up 
+           innovative, application-oriented, and industry-relevant projects. Dr. Geetha Kiran A highlighted the
+           strong sense of commitment demonstrated by the 1983 alumni batch in giving back to their alma mater 
+           through mentorship, academic support, and student engagement, which serves as an inspiration to the 
+           present generation of students.The programme concluded with an engaging Kahoot quiz, in which Mr.
+           Puneet, a first-year student, emerged as the winner and received a cash prize. "
+          date=" 1st December 2025"
+        />
          <Carousel
           images={[
             "/assets/events25/BTS1 (1).jpeg",

@@ -40,6 +40,25 @@ export default function Event25() {
            Puneet, a first-year student, emerged as the winner and received a cash prize. "
           date=" 1st December 2025"
         />
+        <Carousel
+          images={[
+            "/assets/events25/Bg8.JPG",
+          ]}
+          title="Bridging Generations – Alumni Insights "
+          description="Another enriching and inspiring session added to our journey of meaningful learning!
+          Heartfelt gratitude to Mr. Kiran N. G., a seasoned technologist and a compassionate social contributor, 
+          for sharing his experiences with us. His perspectives on navigating workplace hierarchies, adapting to 
+          international cultures, and approaching opportunities with confidence offered tremendous learning and 
+          motivation. More than a technologist, his dedication to reaching rural children and government school
+          students reflects true social commitment — a message that deeply resonated with all of us. Sincere
+          appreciation to Mr. krishnaswamy subbarao, Chief Convenor of this programme and Advisor to ME-RIISE 
+          Foundation, for joining us all the way from Colombo and for his constant guidance and encouragement. A
+          special thank you to Dr. Geetha Kiran A., CEO of ME-RIISE Foundation, for her leadership, vision, and 
+          unwavering support in making such impactful initiatives possible. With 120+ participants, Episode 8 
+          successfully strengthened the bridge between experience and ambition, learning and action, alumni and 
+          students.  "
+          date=" 22nd November 2025"
+        />
          <Carousel
           images={[
             "/assets/events25/BTS1 (1).jpeg",

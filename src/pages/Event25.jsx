@@ -9,6 +9,25 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events25/Ignite 2 (2).jpeg",
+            "/assets/events25/Ignite 2.jpeg",
+          ]}
+          title=" IGNITE – Idea to Proto 2.0"
+          description=" ME-RIISE FOUNDATION, in association with the Department of First Year, conducted IGNITE – Idea 
+          to Proto 2.0*, showcasing innovative AI-based projects developed by first-year students as part of their 
+          course on Introduction to AI & Its Use Cases. Students from three sections mentored by their course faculties 
+          Dr. Geetha Kiran A, Dr. Balaji Prabhu B V and  Dr. Kunal G S presented their projects developed during the 
+          course of study.The program was organized by Dr. Geetha Kiran A, CEO of ME-RIISE FOUNDATION and convened 
+          by Dr. Kalavathi G. K., Head of the First Year Department. The projects were evaluated by Prof. Shruthi 
+          D V, Dept. of ISE and Prof. Poornima M R, Dept. of ECE.The event was graced by the presence of the 
+          former Principal, Dr. A. J. Krishnaiah, and the current Principal, Dr. Amarendra H. J., who visited the
+          ME-RIISE FOUNDATION premises and interacted with the students. Dr. Nanditha B. R. and Dr. Mohana Lakshmi 
+          were also part of the event.The program reinforced experiential learning and innovation among first-year
+          students through hands-on AI applications. "
+          date=" 23rd December 2025"
+        />
+        <Carousel
+          images={[
             "/assets/events25/IIC 2025.jpg",
           ]}
           title="IIC Regional Meet 2025"

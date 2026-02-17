@@ -30,7 +30,16 @@ function Home() {
           </div> */}
 
 
-
+           <div className="my-5">
+            <p>
+              <Link
+                to="/events26"
+                className="text-3xl flex justify-center items-center"
+              >
+                2026
+              </Link>
+            </p>
+          </div>
            <div className="my-5">
             <p>
               <Link

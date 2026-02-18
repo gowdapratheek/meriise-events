@@ -9,7 +9,7 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
-            "/assets/events25/BG10.jpg",
+            "/assets/events26/BG10.jpg",
           ]}
           title=" Bridging Generations, Alumni Insights | Episode 10 ✨"
           description=" We were delighted to host Ms. Anu Chowdipura (Batch of 1991, CSE, Malnad College of Engineering) 

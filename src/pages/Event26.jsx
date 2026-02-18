@@ -9,21 +9,18 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
-            "/assets/events25/BG9.jpeg",
+            "/assets/events25/BG10.jpg",
           ]}
-          title=" Bridging Generations, Alumni Insights | Episode 9 ✨"
-          description=" An inspiring session at Bridging Generations – Episode 9, hosted by ME-RIISE Foundation,
-           Malnad College of Engineering, Hassan featuring Ms. Vijetha Shenoy (MCE Batch 2005), People Manager - 
-           Talent Engagement @Infosys Finacle.The session beautifully highlighted that careers are built not just
-           on degrees, but on mindset, empathy, and continuous learning. Key takeaways that truly resonated with
-           our students:
-          🔹 Listen before reacting
-          🔹 Learn before demanding
-          🔹 Respect before challenging
-          Grateful for the reflections, real-world insights, and meaningful conversations that bridged generations
-          and inspired young minds to think beyond roles and titles.Thank you, Ms. Vijetha Shenoy, for an engaging 
-          and impactful session.. "
-          date=" 27th December 2025"
+          title=" Bridging Generations, Alumni Insights | Episode 10 ✨"
+          description=" We were delighted to host Ms. Anu Chowdipura (Batch of 1991, CSE, Malnad College of Engineering) 
+          for an inspiring and engaging session with our students. Her insights on embracing failure, self-growth, and 
+          following one’s passion truly resonated with everyone.From her corporate journey to pursuing writing and 
+          contributing to women empowerment, her story beautifully reflected resilience, purpose, and lifelong learning.
+          The session left our students and faculty motivated and deeply inspired.Grateful for this meaningful 
+          interaction and the inspiration shared. 🌱Kudos to the efforts of krishnaswamy subbarao and our CEO Geetha 
+          Kiran A for the consistent efforts in bridging the young ones with our beloved alumni. Anu Chowdipura thank 
+          you madam."
+          date=" 24th January 2026"
         />
         
         

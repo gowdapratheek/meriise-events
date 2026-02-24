@@ -23,7 +23,22 @@ export default function Event25() {
           date=" 24th January 2026"
         />
         
-        
+        <Carousel
+          images={[
+            "/assets/events26/Catalyzing.jpg",
+          ]}
+          title=" IGNITE — Catalyzing Innovation through Interdisciplinary Project-Based Learning✨"
+          description=" ME-RIISE FOUNDATION successfully organized a two-day faculty development program on 17 & 
+          20 February 2026 at Malnad College of Engineering. The program was facilitated by Dr. Geetha Kiran A., 
+          CEO, ME-RIISE FOUNDATION & Dean (Corporate Affairs), MCE, who guided faculty on the structured planning 
+          and execution of interdisciplinary projects for second-semester students.Five interdisciplinary faculty 
+          teams developed and presented innovative project proposals, demonstrating strong collaboration, 
+          creativity, and commitment to experiential learning. The projects were evaluated by the Director and the 
+          Dean (Academic Affairs), who provided valuable suggestions for further refinement.This initiative marks 
+          a significant step toward fostering innovation-driven, outcome-based education and preparing students 
+          for real-world problem solving."
+          date=" 17th & 20th February 2026"
+        />
       </div>
     </>
   );

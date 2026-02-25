@@ -39,6 +39,24 @@ export default function Event25() {
           for real-world problem solving."
           date=" 17th & 20th February 2026"
         />
+        <Carousel
+          images={[
+            "/assets/events26/AI.jpg",
+          ]}
+          title=" Getting Started with AI ✨"
+          description=" ME-RIISE FOUNDATION , Malnad College of Engineering, in association with NASSCOM Foundation
+          and IBM SkillsBuild, successfully conducted a one-day bootcamp on “Getting Started with AI” on 18 
+          February 2026.✨ 600+ students from all engineering departments participated and gained valuable 
+          insights into Artificial Intelligence, real-world applications, and emerging industry trends through 
+          this expert-led certification session.👨‍🏫 The program was delivered by NASSCOM Foundation experts Mr. 
+          Siddhesh and Mr. Kishore.🎯 Coordinated by Dr. Geetha Kiran A, the event was smoothly executed with the 
+          support of 40+ dedicated student volunteers, who ensured seamless participation and engagement throughout
+          the session.📜 The bootcamp concluded with an assessment, enabling participants to earn an industry-
+          recognized IBM SkillsBuild Certificate.👏 A proud step toward empowering students with future-ready 
+          skills and strengthening academia–industry collaboration.#MalnadCollegeOfEngineering #AI 
+          #NASSCOMFoundation #IBMSkillsBuild #FutureReady #StudentDevelopment #ArtificialIntelligence"
+          date=" 18th February 2026"
+        />
       </div>
     </>
   );

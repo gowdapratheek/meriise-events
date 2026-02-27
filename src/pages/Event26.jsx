@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/Radio.jpg",
+          ]}
+          title=" Radio Kisaan Divas ✨"
+          description="Our beloved CEO of ME-RIISE FOUNDATION, Malnad College of Engineering Dr. Geetha Kiran A, 
+          participated as a distinguished panellist at the One-Day State-Level Symposium on Agriculture and 
+          Intelligence, held at All India Radio (Akashvani), hashtag#Hassan on 26 February 2026, as part of the 
+          hashtag#RadioKisaanDivas celebrations.Dr. Geetha Kiran A delivered an insightful session on “Artificial 
+          Intelligence for Agricultural Development,” highlighting emerging opportunities, real-world applications,
+          and the transformative potential of AI in modern farming practices. Her perspectives on technology-
+          agricultural innovation were widely appreciated by the audience.The panel also included Mr. Kiran N. G. 
+         (AI Consultant), senior officials from the Departments of Agriculture and Horticulture, farmers, and 
+         enthusiastic participation from students representing various schools and colleges.The session was 
+         expertly moderated by Mr. Madhusudan, Programme Executive, Akashvani Hassan, and was broadcast live, 
+         reaching a wide audience of farmers, students, and stakeholders across the region."
+          date=" 27th February 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/AI.jpg",
           ]}
           title=" Getting Started with AI ✨"

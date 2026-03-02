@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/BG11.jpg",
+          ]}
+          title=" Bridging Generations: Alumni Insights (Episode 11)"
+          description="ME-RIISE FOUNDATION, Malnad College of Engineering, Hassan, extends its heartfelt gratitude
+          to Ms. Bindu Nanjundaswamy (Batch of 1994, ECE; Senior Director, Support & Cloud Operations, Oracle) for 
+          delivering an inspiring and insightful session on “The Ecosystem — Weave Your Story.”Her valuable 
+          perspectives, real-world experiences, and encouraging words deeply motivated our students and faculty, 
+          helping them better understand the evolving professional landscape and the importance of shaping one’s 
+          own journey.We also sincerely thank Mr. Arun Dindigal for his gracious presence and support, which added
+          great value to the programme.Our special appreciation goes to Mr. krishnaswamy subbarao, Chief Convenor, 
+          and Dr. Geetha Kiran A for their guidance and leadership in making this episode a success.The session 
+          truly strengthened the bond between alumni and the institution, embodying the spirit of Bridging 
+          Generations.
+          Listen to Bindu ----> https://lnkd.in/gSC74CKs"
+          date=" 28th February 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/Radio.jpg",
           ]}
           title=" Radio Kisaan Divas ✨"

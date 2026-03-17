@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/Roots.jpg",
+            "/assets/events26/Roots1.jpg",
+            "/assets/events26/Roots2.jpg",
+          ]}
+          title=" Roots of Innovation: Engineering Meets Agriculture"
+          description="Roots of Innovation: Engineering Meets Agriculture,” was organized by ME-RIISE FOUNDATION at Malnad College of Engineering ,
+          Hassan.The book “ದರಗುಟ್ಟಿ ಮಳೆ ಸುರಿದು” was launched during the event. The event was convened by Dr. Geetha Kiran A, CEO, ME-RIISE FOUNDATION .
+          During the program, MTES® Chairman Sri R. T. Dyavegowda, Secretary Sri C. R. Jagadeesh, and Treasurer Sri Parshwanath felicitated the authors 
+          Mamatha Prabhu and Anu Chowdipura, an alumnus of Malnad College of Engineering, in recognition of their inspiring work.During the interaction,
+          Anu Chowdipura spoke about the importance of solving agricultural challenges through technology and highlighted how engineers can play a 
+          crucial role in addressing real problems faced by farmers through innovation, research, and practical technological solutions.The book carries 
+          a powerful message for today’s youth and beautifully portrays the dignity, purpose, and fulfillment that come from sharing one’s life with 
+          farmer. It highlights the deep connection between agriculture, resilience, and society, encouraging young minds to respect and value the 
+          strength and wisdom rooted in our farming communities."
+          date="12th March 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/BG11.jpg",
           ]}
           title=" Bridging Generations: Alumni Insights (Episode 11)"

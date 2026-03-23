@@ -82,7 +82,9 @@ export default function Event25() {
 
         <Carousel
           images={[
-            "/assets/events26/Catalyzing.jpg",
+            "/assets/events26/Catalyzing1.jpg",
+            "/assets/events26/Catalyzing2.jpg",
+            "/assets/events26/Catalyzing3.jpg",
           ]}
           title=" IGNITE — Catalyzing Innovation through Interdisciplinary Project-Based Learning✨"
           description=" ME-RIISE FOUNDATION successfully organized a two-day faculty development program on 17 & 

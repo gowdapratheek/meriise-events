@@ -9,6 +9,18 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/BG12.jpg",
+          ]}
+          title=" Bridging Generations Alumni Insights Episode 12"
+          description="The ME-RIISE Foundation at Malnad College of Engineering successfully conducted the 12th episode of Bridging Generations – 
+          Alumni Insights on April 10, 2026 at 5:00 PM, marking its 1st year anniversary.For the first time, all 11 alumni speakers came together on a 
+          single platform, sharing their journeys, experiences, and valuable insights. The session featured inspiring talks, a dynamic panel discussion, 
+          and an engaging interactive Q&A.The event served as a meaningful platform for students to learn, connect, and gain inspiration from 
+          accomplished alumni.."
+          date="10th April 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/Roots.jpg",
             "/assets/events26/Roots1.jpg",
             "/assets/events26/Roots2.jpg",

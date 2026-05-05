@@ -126,7 +126,20 @@ export default function Event25() {
           you madam."
           date=" 24th January 2026"
         />
-        
+        <Carousel
+          images={[
+            "/assets/events26/Ignite3.0.jpg",
+            "/assets/events26/Ignite3.0(2).jpg",
+          ]}
+          title=" Ignition Idea to proto 3.0"
+          description=" AI for Design Thinking in action! Contributing to AICTE and MIC Pre-AI Summit activities through AI for Design 
+          Thinking, aligned with the India AI Impact Summit 2026 and the vision of Atmanirbhar Bharat—led by Dr. Geetha Kiran A., CEO, ME-RIISE 
+          Foundation and President MCE-IIC" Students explored how Artificial Intelligence transforms problem-solving—from empathy to innovation. 
+          Ten student teams ideated, prototyped, and pitched AI-driven solutions to real-world problems in the AI for Design Thinking program. 
+          Abhishek Ranjan Ministry of Education's Innovation Cell - MIC, Government of India (GoI) ,All India Council for Technical Education (AICTE),
+          IndiaAI Mission,and MeitY Startup Hub.."
+          date=" 13th January 2026"
+        />
         
       </div>
     </>

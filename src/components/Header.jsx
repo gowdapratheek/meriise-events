@@ -9,7 +9,7 @@ function Header() {
       <div className="fixed top-0 left-0 w-full bg-black h-[12vh]  flex items-center justify-between z-50">
         <a href="http://www.meriise.org/" className="cursor-pointer ">
           <img
-            src="\assets\meriise-logo.png"
+            src="\assets\meriise_new_logo.png"
             alt=""
             className="h-[7.5rem] mx-8 flex"
           />

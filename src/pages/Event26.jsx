@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/Founders & Funders Meet.jpg",
+          ]}
+          title=" Build for 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 - Founders & Funders Meet"
+          description="ME-RIISE FOUNDATION at Malnad College of Engineering, under the Rajiv Gandhi Entrepreneurship 𝙋𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙚 (RGEP), 
+          successfully organised “𝗕𝘂𝗶𝗹𝗱 for 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 - Founders & Funders 𝗠𝗲𝗲𝘁” on 7th May 2026.The session brought together promising 
+          innovators, mentors and investors including Mr. Ravi Ananth, Mr. Naren Narayana, Dr. Geetha Kiran A and Dr. Mohana Lakshmi J 
+          for insightful discussions on startup growth, validation and investment readiness.The event provided a strong platform for 
+          startup founders to present their ideas, receive strategic feedback and gain real-world perspectives on building scalable 
+          and sustainable ventures. 🔹 Key Focus Areas:* Product-market fit, * Business model validation, * Customer psychology, 
+          * Go-to-market strategy, * Investor expectations, * Startup scalability
+         🎯 Key Insights Shared by Mentors & Experts:* Solve one focused problem deeply, * Validate ideas before scaling, * Build customer
+         -centric products, * Create strong differentiation, * Design sustainable revenue models
+          🌱 ME-RIISE FOUNDATION continues to strengthen the entrepreneurial ecosystem by enabling innovators to transform ideas into impactful
+          and scalable ventures. IT BT Department, Karnataka "
+          date="7th May 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/BG12.jpg",
           ]}
           title=" Bridging Generations Alumni Insights Episode 12"
@@ -126,21 +144,7 @@ export default function Event25() {
           you madam."
           date=" 24th January 2026"
         />
-        <Carousel
-          images={[
-            "/assets/events26/Ignite3.0.jpg",
-            "/assets/events26/Ignite3.0(2).jpg",
-          ]}
-          title=" Ignition Idea to proto 3.0"
-          description=" AI for Design Thinking in action! Contributing to AICTE and MIC Pre-AI Summit activities through AI for Design 
-          Thinking, aligned with the India AI Impact Summit 2026 and the vision of Atmanirbhar Bharat—led by Dr. Geetha Kiran A., CEO, ME-RIISE 
-          Foundation and President MCE-IIC" Students explored how Artificial Intelligence transforms problem-solving—from empathy to innovation. 
-          Ten student teams ideated, prototyped, and pitched AI-driven solutions to real-world problems in the AI for Design Thinking program. 
-          Abhishek Ranjan Ministry of Education's Innovation Cell - MIC, Government of India (GoI) ,All India Council for Technical Education (AICTE),
-          IndiaAI Mission,and MeitY Startup Hub.."
-          date=" 13th January 2026"
-        />
-        
+                
       </div>
     </>
   );

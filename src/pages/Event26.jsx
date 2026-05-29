@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/BG 2.0.jpg",
+            "/assets/events26/BG 2.0(1).jpg",
+          ]}
+          title=" Bridging Generations, Alumni Insights 2.0 ✨"
+          description="ME-RIISE FOUNDATION, Malnad College of Engineering expresses a heartfelt thank you to Mr. Nagashankar C. for 
+          making the launch session of 𝗕𝗿𝗶𝗱𝗴𝗶𝗻𝗴 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀 – 𝗔𝗹𝘂𝗺𝗻𝗶 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 𝟮.𝟬 𝘁𝗿𝘂𝗹𝘆 𝗶𝗻𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗶𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹 🌍✨From sharing valuable 
+          insights on AI, career growth, emotional intelligence, and overcoming failures, to patiently addressing students’ questions
+          with honesty and clarity — the session was filled with practical wisdom and motivation.One of the biggest takeaways from the 
+          interaction was the powerful message:👉 “𝗗𝗼𝗻’𝘁 𝘀𝗲𝗮𝗿𝗰𝗵 𝗳𝗼𝗿 𝗺𝗲𝗻𝘁𝗼𝗿𝘀 𝗯𝗹𝗶𝗻𝗱𝗹𝘆. 𝗟𝗲𝗮𝗿𝗻 𝘁𝗼 𝗮𝘀𝗸 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗮𝗻𝗱 𝘀𝗲𝗲𝗸 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁 
+          𝗮𝗻𝘀𝘄𝗲𝗿𝘀 𝗳𝗿𝗼𝗺 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁 𝗽𝗲𝗿𝘀𝗼𝗻𝘀.”Your thoughts on continuous learning, reading biographies, building emotional intelligence, and 
+          confidently taking the right decisions even during difficult phases deeply resonated with our students.𝗧𝗵𝗶𝘀 𝘀𝗲𝘀𝘀𝗶𝗼𝗻 𝘄𝗮𝘀 𝗻𝗼𝘁 
+          𝗷𝘂𝘀𝘁 𝗮𝗻 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁𝗶𝗼𝗻 — 𝗶𝘁 𝘄𝗮𝘀 𝗮 𝗯𝗲𝗮𝘂𝘁𝗶𝗳𝘂𝗹 𝗲𝘅𝗮𝗺𝗽𝗹𝗲 𝗼𝗳 𝗴𝗶𝘃𝗶𝗻𝗴 𝗯𝗮𝗰𝗸 𝘁𝗼 𝘁𝗵𝗲 𝗮𝗹𝗺𝗮 𝗺𝗮𝘁𝗲𝗿 𝗮𝗻𝗱 𝗴𝘂𝗶𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗻𝗲𝘅𝘁 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝘄𝗶𝘁𝗵 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲, 
+          𝗵𝘂𝗺𝗶𝗹𝗶𝘁𝘆, 𝗮𝗻𝗱 𝗴𝗲𝗻𝘂𝗶𝗻𝗲 𝗶𝗻𝘁𝗲𝗻𝘁.Thank you once again for your valuable time, encouragement, and meaningful contribution towards 
+          shaping young minds. We are truly grateful for your support and presence. 🙏✨ "
+          date="23rd May 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/Founders & Funders Meet.jpg",
           ]}
           title=" Build for 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 - Founders & Funders Meet"

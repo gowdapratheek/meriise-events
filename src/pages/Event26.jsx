@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/Environment Day.png",
+            "/assets/events26/Environment Day(1).jpeg",
+            "/assets/events26/Environment Day(2).jpeg",
+            "/assets/events26/Environment Day(3).jpeg",
+            "/assets/events26/Environment Day(4).jpeg",
+            "/assets/events26/Environment Day(5).jpeg",
+            "/assets/events26/Environment Day(6).jpeg",
+          ]}
+          title=" World Environment Day 2026 ✨"
+          description="🌱 ME-RIISE FOUNDATION, Malnad College of Engineering, Hassan, celebrated World Environment Day 2026 with a plantation 
+          drive as a symbol of growth, sustainability, and environmental responsibility.The activity was organized during the inauguration of 
+          the Digital Lab established through the CSR initiatives of Progress Software, reflecting a shared vision towards community 
+          development, digital empowerment, and sustainable growth.The saplings planted during the event stand as a symbol of nurturing 
+          innovation alongside nature — building a greener, cleaner, and better future for generations to come. 🌍💚 "
+          date="6th June 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/BG 2.0.jpg",
             "/assets/events26/BG 2.0(1).jpg",
           ]}

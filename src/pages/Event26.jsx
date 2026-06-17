@@ -23,10 +23,8 @@ export default function Event25() {
           for underserved communities.The Digital Lab was inaugurated by Sri. B. R. Gurudev, Chairman, MTES®; Sri. G. T. Kumar, Secretary, 
           MTES®; Sri. S. G. Sridhar, Treasurer, MTES®; and Sri. Ashok Harnahalli, Hon. Executive Council Member, MTES®, Dr. S. Pradeep, 
           Principal, MCE in the presence of the Progress Software team - Ms. Girija Kolagada, Mr. Sandeep Chavhan, and Ms. Nagarshri.Girija
-          Kolagada and team Thank you for your trust in us. 𝙏𝙤𝙜𝙚𝙩𝙝𝙚𝙧 𝙬𝙚 𝙖𝙧𝙚 𝙘𝙤𝙢𝙢𝙞𝙩𝙩𝙚𝙙 𝙩𝙤 𝙣𝙪𝙧𝙩𝙪𝙧𝙚 𝙩𝙖𝙡𝙚𝙣𝙩, 𝙚𝙣𝙖𝙗𝙡𝙚 𝙡𝙞𝙫𝙚𝙡𝙞𝙝𝙤𝙤𝙙𝙨, 𝙖𝙣𝙙 𝙘𝙧𝙚𝙖𝙩𝙚 
-          𝙢𝙚𝙖𝙣𝙞𝙣𝙜𝙛𝙪𝙡 𝙩𝙧𝙖𝙣𝙨𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣 𝙞𝙣 𝙩𝙝𝙚 𝙃𝙖𝙨𝙨𝙖𝙣 𝙧𝙚𝙜𝙞𝙤𝙣 𝙖𝙣𝙙 𝙗𝙚𝙮𝙤𝙣𝙙.ME-RIISE FOUNDATION sincerely thanks Progress Software for partnering 
-          with it in this mission of empowering lives through technology and education.𝗚𝗿𝗮𝘁𝗲𝗳𝘂𝗹 𝗳𝗼𝗿 𝘁𝗵𝗲 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗿𝗲𝗻𝗱𝗲𝗿𝗲𝗱 𝗯𝘆 𝘁𝗵𝗲 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗰𝗼𝘂𝗻𝗰𝗶𝗹
-          𝗺𝗲𝗺𝗯𝗲𝗿𝘀 𝗼𝗳 𝗠𝗧𝗘𝗦(𝗥). "
+          Kolagada and team Thank you for your trust in us.ME-RIISE FOUNDATION sincerely thanks Progress Software for partnering 
+          with it in this mission of empowering lives through technology and education."
           date="6th June 2026"
         />
         <Carousel

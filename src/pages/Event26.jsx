@@ -10,8 +10,8 @@ export default function Event25() {
         <Carousel
           images={[
             "/assets/events26/digitallab.jpg",
-            "/assets/events26/digitallab(2).jpg",
-            "/assets/events26/digitallab(3).jpg",
+            "/assets/events26/digitallab2.jpg",
+            "/assets/events26/digitallab3.jpg",
           ]}
           title=" Inauguration of the 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗟𝗮𝗯✨"
           description="ME-RIISE FOUNDATION at Malnad College of Engineering, Hassan is proud to announce the inauguration of the 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗟𝗮𝗯, 

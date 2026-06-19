@@ -9,6 +9,21 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/Youth (1).jpg",
+            "/assets/events26/Youth (2).jpg",
+          ]}
+          title=" Youth Research Catalyst"
+          description="ME-RIISE FOUNDATION, in association with the Department of First Year and R&D Cell, Malnad College of Engineering, 
+          Hassan, successfully organized Youth Research Catalyst on 10 June 2026 to nurture a research and innovation mindset among first-year
+          engineering students.The event witnessed participation from 156 interdisciplinary student teams, showcasing innovative projects, 
+          prototypes, and research-based solutions. Following a two-phase evaluation process, 21 teams were shortlisted and assessed by 
+          external jury members from Stellantis and Carelon Global Solutions. The Top 10 teams were recognized for their creativity, 
+          innovation, and impactful solutions.The program provided students with a valuable platform to explore research, interdisciplinary 
+          collaboration, and problem-solving while fostering a strong culture of innovation and entrepreneurship."
+          date="10th June 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/digitallab.jpg",
             "/assets/events26/digitallab2.jpg",
             "/assets/events26/digitallab3.jpg",

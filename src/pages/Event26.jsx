@@ -9,8 +9,8 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
-            "/assets/events26/Youth (1).jpg",
-            "/assets/events26/Youth (2).jpg",
+            "/assets/events26/Youth (1).png",
+            "/assets/events26/Youth (2).png",
           ]}
           title=" Youth Research Catalyst"
           description="ME-RIISE FOUNDATION, in association with the Department of First Year and R&D Cell, Malnad College of Engineering, 

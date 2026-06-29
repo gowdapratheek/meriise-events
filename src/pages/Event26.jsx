@@ -9,6 +9,19 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/BG14 (1).jpeg",
+            "/assets/events26/BG14 (2).jpeg",
+          ]}
+          title=" Bridging Generations, Alumni Insights | Episode 14 ✨"
+          description="An enriching session with Mr. Devananda Jayaraman (1992 Batch, E&C), who shared valuable insights on the evolving Al 
+          landscape and the future of engineering.His powerful message resonated with everyone: "Al builds Build what adds value Grow 
+          together A heartfelt thank you to Mr  Devananda Jayaraman for inspiring our students faculty and alumni with his remarkable journey
+          practical insights and vision for the future Together we continue to bridge generations inspire innovation and build tomorrow
+          Kudos to the efforts of Dr Geetha Kiran A krishnaswamy subbarao for their zeel and Kiran N G for his support
+          date="27th June 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/Youth (1).png",
             "/assets/events26/Youth (2).png",
           ]}

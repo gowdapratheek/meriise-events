@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/MCA (1).jpeg",
+            "/assets/events26/MCA (2).jpeg",
+            "/assets/events26/MCA (3).jpeg",
+          ]}
+          title="AI Tools & Web Development Awareness and Problem-Solving Workshop ✨"
+          description="ME-RIISE Foundation, in collaboration with the Department of MCA, Malnad College of Engineering, Hassan, organized an 
+          AI Tools & Web Development Awareness and Problem-Solving Workshop for MCA students at the Honey Well Lab.The workshop aimed to 
+          introduce students to modern AI tools, web development technologies, and software development practices. Students learned how AI can
+          support coding, debugging, and project development while gaining hands-on experience with Gemini CLI, Visual Studio Code (VS Code), 
+          and basic web development using HTML, CSS, and JavaScript.As part of the workshop, students were divided into nine teams and 
+          encouraged to identify real-world problems, develop innovative solutions, and prepare project ideas. This activity promoted teamwork,
+          creativity, and practical learning.The workshop helped students improve their technical knowledge, explore AI-assisted development, 
+          and build confidence in creating technology-based solutions. It also inspired them to think innovatively and apply their skills to 
+          solve real-world challenges."
+          date="15th June 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/BG14 (1).jpeg",
             "/assets/events26/BG14 (2).jpeg",
           ]}

@@ -11,7 +11,7 @@ export default function Event25() {
           images={[
             "/assets/events26/Projct MCA.jpeg",
             "/assets/events26/Project MCA1.jpeg",
-            "/assets/events26/Project MCA2.jpeg",
+            "/assets/events26/Project MCA 2.jpeg",
           ]}
           title="Project Review and Feature Enhancement Session✨"
           description="The ME-RIISE Foundation conducted a Project Review and Feature Enhancement Session for MCA students on 20 June 2026. 
@@ -94,12 +94,12 @@ export default function Event25() {
         <Carousel
           images={[
             "/assets/events26/Environment Day.png",
-            "/assets/events26/Environment Day(1).jpeg",
-            "/assets/events26/Environment Day(2).jpeg",
-            "/assets/events26/Environment Day(3).jpeg",
-            "/assets/events26/Environment Day(4).jpeg",
-            "/assets/events26/Environment Day(5).jpeg",
-            "/assets/events26/Environment Day(6).jpeg",
+            "/assets/events26/Environment Day (1).jpeg",
+            "/assets/events26/Environment Day (2).jpeg",
+            "/assets/events26/Environment Day (3).jpeg",
+            "/assets/events26/Environment Day (4).jpeg",
+            "/assets/events26/Environment Day (5).jpeg",
+            "/assets/events26/Environment Day (6).jpeg",
           ]}
           title=" World Environment Day 2026 ✨"
           description="🌱 ME-RIISE FOUNDATION, Malnad College of Engineering, Hassan, celebrated World Environment Day 2026 with a plantation 

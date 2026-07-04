@@ -10,8 +10,8 @@ export default function Event25() {
         <Carousel
           images={[
             "/assets/events26/Projct MCA.jpeg",
-            "/assets/events26/Project MCA (1).jpeg",
-            "/assets/events26/Project MCA (2).jpeg",
+            "/assets/events26/Project MCA1.jpeg",
+            "/assets/events26/Project MCA2.jpeg",
           ]}
           title="Project Review and Feature Enhancement Session✨"
           description="The ME-RIISE Foundation conducted a Project Review and Feature Enhancement Session for MCA students on 20 June 2026. 

@@ -9,7 +9,7 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
-            "/assets/events26/Project MCA.jpeg",
+            "/assets/events26/Projct MCA.jpeg",
             "/assets/events26/Project MCA (1).jpeg",
             "/assets/events26/Project MCA (2).jpeg",
           ]}

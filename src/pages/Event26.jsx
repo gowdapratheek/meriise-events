@@ -9,6 +9,24 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/Project MCA.jpeg",
+            "/assets/events26/Project MCA (1).jpeg",
+            "/assets/events26/Project MCA (2).jpeg",
+          ]}
+          title="Project Review and Feature Enhancement Session✨"
+          description="The ME-RIISE Foundation conducted a Project Review and Feature Enhancement Session for MCA students on 20 June 2026. 
+          The session focused on reviewing the project ideas developed by student teams and providing guidance to improve their solutions.
+          During the session, all nine student teams presented their project ideas on real-world challenges in areas such as agriculture, 
+          healthcare, education, transportation, finance, and entrepreneurship. The projects explored the use of Artificial Intelligence (AI) 
+          and modern technologies to create practical and innovative solutions.The mentors reviewed each project and provided valuable 
+          suggestions to enhance functionality, user experience, AI integration, documentation, and future scalability. Students also received
+          guidance on project planning, web application development, cloud deployment, and implementation strategies.The session helped 
+          students refine their ideas, strengthen their technical approach, and gain confidence in developing impactful AI-based projects. 
+          It encouraged innovation, teamwork, and problem-solving while preparing students for the next stage of project development."
+          date="30th June 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/MCA (1).jpeg",
             "/assets/events26/MCA (2).jpeg",
             "/assets/events26/MCA (3).jpeg",

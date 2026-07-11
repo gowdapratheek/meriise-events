@@ -9,6 +9,25 @@ export default function Event25() {
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
         <Carousel
           images={[
+            "/assets/events26/AI Nexus.png",
+          ]}
+          title="AI NEXUS 2026✨"
+          description="AI NEXUS 2026: Connecting Ideas with Intelligence* was successfully organized by *ME-RIISE Foundation, in association 
+          with the **Department of MCA. The event brought together **10 student teams* who presented innovative Artificial Intelligence (AI) 
+          projects focused on solving real-world problems through intelligent technologies.The event featured *AI Project Showcase, Idea 
+          Presentation, and Pitching Sessions*, where each team demonstrated its project, explained the problem statement, highlighted the
+          AI technologies used, and showcased the practical impact of its solution. Participants presented innovative ideas across various 
+          application domains, reflecting creativity, technical knowledge, and a strong problem-solving approach.An expert panel evaluated 
+          the projects based on *innovation, technical implementation, problem relevance, scalability, presentation skills, and overall 
+          impact*. Following the presentations, the judges provided valuable feedback and suggestions to help the teams further improve 
+          their solutions and prepare them for future development and entrepreneurial opportunities.The event concluded with the announcement 
+          of the winning team, recognizing their exceptional innovation, technical excellence, and presentation. *AI NEXUS 2026* served as 
+          an excellent platform for students to demonstrate their AI capabilities, exchange ideas, receive expert mentorship, and strengthen 
+          the culture of innovation and entrepreneurship at Malnad College of Engineering."
+          date="10th July 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/Projct MCA.jpeg",
             "/assets/events26/Project MCA1.jpeg",
             "/assets/events26/Project MCA 2.jpeg",

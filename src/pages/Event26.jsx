@@ -7,6 +7,7 @@ export default function Event25() {
       <Header />
       <div className="lg:grid lg:grid-cols-2 lg:gap-4">
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
+       
         <Carousel
           images={[
             "/assets/events26/AI Nexus.png",
@@ -43,6 +44,30 @@ export default function Event25() {
           students refine their ideas, strengthen their technical approach, and gain confidence in developing impactful AI-based projects. 
           It encouraged innovation, teamwork, and problem-solving while preparing students for the next stage of project development."
           date="30th June 2026"
+        />
+        <Carousel
+          images={[
+            "/assets/events26/Craftronics.jpeg",
+          ]}
+          title="Visit to Craftronics India Private Limited, Hyderabad✨"
+          description="Dr. Geetha Kiran A and Dr. Mohanalakshmi J visited Craftronics India Private Limited, Hyderabad, to explore industry–
+          academia collaboration in Electronics, VLSI, Embedded Systems, and PCB Design. Discussions focused on skill development, internships,
+          industry-oriented training, certification programs, live projects, and joint research initiatives. The visit provided valuable 
+          insights into current industry requirements and laid the foundation for future collaborations aimed at enhancing students' 
+          technical skills, practical exposure, and industry readiness."
+          date="22nd June 2026"
+        />
+         <Carousel
+          images={[
+            "/assets/events26/T-Hub.png",
+          ]}
+          title="Visit to T-Hub, Hyderabad✨"
+          description="Dr. Geetha Kiran A and Dr. Mohanalakshmi J visited T-Hub, Hyderabad, to explore opportunities for collaboration in 
+          innovation and entrepreneurship. The visit offered valuable insights into T-Hub’s startup incubation ecosystem, mentorship initiative
+          s, and innovation-driven programs. Discussions centered on potential partnerships for conducting workshops, innovation bootcamps, 
+          hackathons, mentoring sessions, and startup support for students and faculty. The visit strengthened institutional networking and 
+          established a strong foundation for future collaborations aimed at fostering innovation and entrepreneurial growth.."
+          date="19th June 2026"
         />
         <Carousel
           images={[

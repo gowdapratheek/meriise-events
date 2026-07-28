@@ -10,6 +10,24 @@ export default function Event25() {
        
         <Carousel
           images={[
+            "/assets/events26/BG 2.0 Ep3.jpg",
+          ]}
+          title="Bridging Generations 2.0✨"
+          description="ME-RIISE FOUNDATION, Malnad College of Engineering proudly hosted another impactful session of Bridging Generations
+          2.0, featuring Mr. 𝗖𝗵𝗮𝗻𝗱𝗿𝗮𝘀𝗵𝗲𝗸𝗮𝗿 , 𝙁𝙤𝙪𝙣𝙙𝙚𝙧 & 𝙀𝙣𝙩𝙧𝙚𝙥𝙧𝙚𝙣𝙚𝙪𝙧, 𝙀𝙨𝙨𝙘𝙚𝙚 𝙋𝙧𝙞𝙣𝙩 𝙋𝙖𝙘𝙠 𝙋𝙫𝙩. 𝙇𝙩𝙙., 𝙖𝙣𝙙 𝙖 𝙙𝙞𝙨𝙩𝙞𝙣𝙜𝙪𝙞𝙨𝙝𝙚𝙙 𝙖𝙡𝙪𝙢𝙣𝙪𝙨 𝙤𝙛 𝙈𝙚𝙘𝙝𝙖𝙣𝙞𝙘𝙖𝙡 
+          𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 (1990 𝘽𝙖𝙩𝙘𝙝)During the session, he candidly shared the milestones, challenges, and defining moments of his entrepreneurial
+          journey. He encouraged students to embrace failures as stepping stones to success, remain patient and courageous, uphold integrity,
+          and build enterprises that create meaningful value for society. His powerful message—that success is built through consistency,
+          hard work, continuous learning, and the courage to take calculated risks—left a lasting impact on everyone present.🙏 A heartfelt 
+          thank you to Mr. 𝗖𝗵𝗮𝗻𝗱𝗿𝗮𝘀𝗵𝗲𝗸𝗮𝗿 for generously sharing his invaluable experiences, practical insights, and inspiring life lessons 
+          with our students and faculty.Special appreciation to Dr. Geetha Kiran A, CEO, ME-RIISE FOUNDATION, for leading the Bridging 
+          Generations 2.0 initiative.Our sincere gratitude to Mr. krishnaswamy subbarao for his dedicated efforts in coordinating the 
+          session and ensuring its successful execution.Special Thanks to Mr. Kiran N. G. and entire ME-RIISE Faternity.Together, we continue
+          to strengthen the bond between our accomplished alumni and future leaders."
+          date="25th July 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/AI Nexus.png",
           ]}
           title="AI NEXUS 2026✨"

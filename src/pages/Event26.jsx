@@ -10,6 +10,24 @@ export default function Event25() {
        
         <Carousel
           images={[
+            "/assets/events26/Arogya (1).jpeg",
+            "/assets/events26/Arogya (2).jpeg",
+            "/assets/events26/Arogya (3).jpeg",
+            "/assets/events26/Arogya (4).jpeg",
+          ]}
+          title="AROGYA MANTHAN 2K26✨"
+          description="ME-RIISE Foundation, under Technology Business Incubator – Malnad College of Engineering (TBI-MCE), successfully 
+          organized *Arogya Manthan 2K26, a **24-hour State-Level Healthcare Innovation Hackathon, on **27–28 July 2026* at Malnad 
+          College of Engineering, Hassan, with the support of the Department of Electronics, Information Technology, Biotechnology and 
+          Science & Technology, Government of Karnataka.The event brought together *288 participants across 68 teams* to develop 
+          innovative solutions for real-world healthcare challenges. Following a rigorous three-stage evaluation process, the top 
+          innovations were recognized with *cash prizes worth ₹1,00,000*. The hackathon provided participants with expert mentoring,
+          industry interaction, and opportunities for incubation and startup support, reinforcing ME-RIISE Foundation's commitment to
+          fostering healthcare innovation and entrepreneurship."
+          date="27th & 28th July 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/BG 2.0 Ep3.jpg",
           ]}
           title="Bridging Generations 2.0✨"

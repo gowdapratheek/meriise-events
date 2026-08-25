@@ -10,6 +10,19 @@ export default function Event25() {
        
         <Carousel
           images={[
+            "/assets/events26/Bg 2.0 Ep4.jpg",
+          ]}
+          title="Bridging Generation Alumni Insights 2.0 Ep 4✨"
+          description="🌟 𝐁𝐫𝐢𝐝𝐠𝐢𝐧𝐠 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 – 𝐀𝐥𝐮𝐦𝐧𝐢 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝟐.𝟎 | 𝐄𝐩𝐢𝐬𝐨𝐝𝐞 𝟒| 
+          ME-RIISE FOUNDATION | Malnad College of Engineering, 𝐇𝐀𝐒𝐒𝐀𝐍 We were delighted to host our distinguished alumnus Mr. 
+          Guruprasad S., CSE – 1993 Batch, F𝐨𝐫𝐦𝐞𝐫 𝐕𝐢𝐜𝐞 𝐏𝐫𝐞𝐬𝐢𝐝𝐞𝐧𝐭 𝐨𝐟 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠, 𝐎𝐩𝐞𝐧𝐓𝐞𝐱𝐭, 𝐟𝐨𝐫 𝐚𝐧 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐟𝐮𝐥 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐨𝐧 “𝐂𝐚𝐦𝐩𝐮𝐬 𝐭𝐨 
+          𝐂𝐚𝐫𝐞𝐞𝐫.”The session offered practical perspectives on career readiness, continuous learning, communication, building 
+          proof-of-work, adaptability, and personal well-being.A key message to take forward:“𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲 𝐨𝐯𝐞𝐫 𝐩𝐞𝐫𝐟𝐞𝐜𝐭𝐢𝐨𝐧!”Our sincere 
+          gratitude to Mr. Guruprasad S. for reconnecting with his alma mater and sharing his valuable experiences with our students."
+          date="22nd August 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/Arogya (1).jpeg",
             "/assets/events26/Arogya (2).jpeg",
             "/assets/events26/Arogya (3).jpeg",

@@ -10,6 +10,17 @@ export default function Event25() {
        
         <Carousel
           images={[
+            "/assets/events26/Idea Spark 4.0.jpeg",
+          ]}
+          title="Idea Spark 4.0 MSME Idea Hackathon 6.0"✨"
+          description="ME-RIISE FOUNDATION at Malnad College of Engineering, Hassan, with its TBI-MCE, supported by the IT BT Department,
+          Karnataka, Government of Karnataka, organized the 𝙄𝘿𝙀𝘼 𝙎𝙋𝘼𝙍𝙆 𝟒.𝟎 – 𝙈𝙎𝙈𝙀 𝙄𝙙𝙚𝙖 𝙃𝙖𝙘𝙠𝙖𝙩𝙝𝙤𝙣 𝟔.𝟎 𝙥𝙞𝙩𝙘𝙝𝙞𝙣𝙜 𝙨𝙚𝙨𝙨𝙞𝙤𝙣.🚀 𝟒𝟓 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫𝐬 
+          𝐚𝐜𝐫𝐨𝐬𝐬 𝟏𝟑 𝐭𝐞𝐚𝐦𝐬 𝐩𝐢𝐭𝐜𝐡𝐞𝐝 𝐭𝐡𝐞𝐢𝐫 𝐢𝐝𝐞𝐚𝐬 𝐭𝐨 𝐚𝐧 𝐞𝐱𝐩𝐞𝐫𝐭 𝐣𝐮𝐫𝐲, 𝐠𝐚𝐢𝐧𝐢𝐧𝐠 𝐯𝐚𝐥𝐮𝐚𝐛𝐥𝐞 𝐟𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐚𝐧𝐝 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞 𝐭𝐨 𝐫𝐞𝐟𝐢𝐧𝐞 𝐭𝐡𝐞𝐢𝐫 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐦𝐨𝐯𝐞 
+          𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐢𝐦𝐩𝐚𝐜𝐭.A vibrant day of ideas, innovation and possibilities!💡 𝙄𝘿𝙀𝘼 𝙎𝙋𝘼𝙍𝙆 𝟒.𝟎 | 𝙈𝙎𝙈𝙀 𝙄𝙙𝙚𝙖 𝙃𝙖𝙘𝙠𝙖𝙩𝙝𝙤𝙣 𝟔.𝟎
+          date="25th August 2026"
+        />
+        <Carousel
+          images={[
             "/assets/events26/Bg 2.0 Ep4.jpg",
           ]}
           title="Bridging Generation Alumni Insights 2.0 Ep 4✨"

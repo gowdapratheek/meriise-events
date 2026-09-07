@@ -8,6 +8,23 @@ export default function Event25() {
       <div className="lg:grid lg:grid-cols-2 lg:gap-4">
         {/* <Carousel images={["", "", ""]} title="" description="" date="" /> */}
        
+       <Carousel
+          images={[
+            "/assets/events26/Innovation Bootcamp (1).jpeg",
+            "/assets/events26/Innovation Bootcamp (2).jpeg",
+            "/assets/events26/Innovation Bootcamp (3).jpeg",
+            "/assets/events26/Innovation Bootcamp (4).jpeg",
+            "/assets/events26/Innovation Bootcamp (5).jpeg",
+          ]}
+          title="5 Day Innovation Bootcamp"✨"
+          description="ME-RIISE Foundation, under TBI-MCE, successfully organized a *5-Day Innovation Bootcamp on Robotics* as part of
+          the Bridge Course. The programme introduced students to *Design Thinking, coding, app development, Arduino, electronics, and
+          robotics* through hands-on activities and team-based projects.Students designed and built *RC Bots, gaining practical skills
+          in assembly, programming, testing, and troubleshooting. The bootcamp concluded with bot trials and a valedictory ceremony, 
+          with **10 teams participating* and the top two teams shortlisted for the Grand Finale.The programme inspired students to 
+          explore *innovation, entrepreneurship, and prototype development*.
+          date="24th to 28th August 2026"
+        />
         <Carousel
           images={[
             "/assets/events26/Idea Spark 4.0.jpeg",

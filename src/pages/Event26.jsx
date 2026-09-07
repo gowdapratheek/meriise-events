@@ -10,6 +10,29 @@ export default function Event25() {
        
        <Carousel
           images={[
+            "/assets/events26/Igniting Young Minds 8.0 Session 3.jpg",
+          ]}
+          title="Igniting Young Minds 8.0 Session 3"✨"
+          description="✨ ME-RIISE FOUNDATION at Malnad College of Engineering Presents – 𝙄𝙜𝙣𝙞𝙩𝙞𝙣𝙜 𝙔𝙤𝙪𝙣𝙜 𝙈𝙞𝙣𝙙𝙨 𝟖.𝟎 | 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝟑 💡
+          💡 From Problems to Possibilities! 🚀Today’s session took young minds one step further — from 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐥𝐢𝐟𝐞 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 
+          𝐭𝐨 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐯𝐢𝐚𝐛𝐥𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬!🔍➡️💡𝐒𝐭𝐮𝐝𝐞𝐧𝐭𝐬 𝐫𝐞𝐯𝐢𝐬𝐢𝐭𝐞𝐝 𝐭𝐡𝐞 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐭𝐡𝐞𝐲 𝐡𝐚𝐝 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐢𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐩𝐫𝐞𝐯𝐢𝐨𝐮𝐬 𝐬𝐞𝐬𝐬𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 
+          𝐭𝐡𝐞𝐢𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬 𝐢𝐧𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐢𝐝𝐞𝐚𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐝𝐫𝐚𝐰𝐢𝐧𝐠𝐬 𝐚𝐧𝐝 𝐬𝐤𝐞𝐭𝐜𝐡𝐞𝐬. ✏️🎨🌱 𝐎𝐛𝐬𝐞𝐫𝐯𝐞. 𝐓𝐡𝐢𝐧𝐤. 𝐃𝐞𝐬𝐢𝐠𝐧. 𝐒𝐨𝐥𝐯𝐞. 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐞.𝙀𝙫𝙚𝙧𝙮
+          𝙥𝙧𝙤𝙗𝙡𝙚𝙢 𝙩𝙝𝙚𝙮 𝙨𝙚𝙚 𝙩𝙤𝙙𝙖𝙮 𝙘𝙤𝙪𝙡𝙙 𝙗𝙚𝙘𝙤𝙢𝙚 𝙖𝙣 𝙞𝙣𝙣𝙤𝙫𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙩𝙤𝙢𝙤𝙧𝙧𝙤𝙬! 🚀
+          date="3rd September 2026"
+        />
+        <Carousel
+          images={[
+            "/assets/events26/Igniting Young Minds 8.0 Session 2.jpg",
+          ]}
+          title="Igniting Young Minds 8.0 Session 2"✨"
+          description="✨ ME-RIISE FOUNDATION at Malnad College of Engineering Presents – 𝙄𝙜𝙣𝙞𝙩𝙞𝙣𝙜 𝙔𝙤𝙪𝙣𝙜 𝙈𝙞𝙣𝙙𝙨 𝟖.𝟎 | 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 2 💡
+          💡 From Problems to Possibilities! 🚀Today’s session focused on helping students observe the challenges in their daily lives,
+          understand real-world problems, and start thinking of creative ideas to solve them.🔍 Observe. Think. Identify. Innovate.
+          Every problem is an opportunity to create a better solution! 🚀
+          date="1st September 2026"
+        />
+       <Carousel
+          images={[
             "/assets/events26/Innovation Bootcamp (1).jpeg",
             "/assets/events26/Innovation Bootcamp (2).jpeg",
             "/assets/events26/Innovation Bootcamp (3).jpeg",
@@ -48,6 +71,21 @@ export default function Event25() {
           proof-of-work, adaptability, and personal well-being.A key message to take forward:“𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲 𝐨𝐯𝐞𝐫 𝐩𝐞𝐫𝐟𝐞𝐜𝐭𝐢𝐨𝐧!”Our sincere 
           gratitude to Mr. Guruprasad S. for reconnecting with his alma mater and sharing his valuable experiences with our students."
           date="22nd August 2026"
+        />
+        <Carousel
+          images={[
+            "/assets/events26/Igniting Young Minds 8.0.jpeg",
+          ]}
+          title="✨ 𝐈𝐆𝐍𝐈𝐓𝐈𝐍𝐆 𝐘𝐎𝐔𝐍𝐆 𝐌𝐈𝐍𝐃𝐒 𝟖.𝟎 ✨"
+          description="On 18th August 2026, ME-RIISE FOUNDATION conducted an engaging  𝐈𝐠𝐧𝐢𝐭𝐢𝐧𝐠 𝐘𝐨𝐮𝐧𝐠 𝐌𝐢𝐧𝐝𝐬 𝟖.𝟎 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐚𝐭 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 
+          𝐇𝐢𝐠𝐡 𝐒𝐜𝐡𝐨𝐨𝐥, 𝐕𝐢𝐝𝐲𝐚𝐧𝐚𝐠𝐚𝐫.The session began with an inspiring introduction to ME-RIISE Foundation by Dr. Geetha Kiran A, 𝐂𝐄𝐎, 
+          ME-RIISE FOUNDATION, giving students an insight into innovation, creativity, technology and the opportunities available to 
+          young minds.🌍 Mr. STAPLEY V S further engaged the students by helping them understand real-world problems through real-time
+          examples, encouraging them to observe challenges around them and think of innovative solutions.💡 𝐓𝐡𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐞𝐝 𝐰𝐢𝐭𝐡
+          𝐚𝐧 𝐞𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐐𝐮𝐢𝐳 & 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐐&𝐀 𝐒𝐞𝐬𝐬𝐢𝐨𝐧, 𝐰𝐡𝐞𝐫𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭𝐬 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐩𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐞𝐝, 𝐬𝐡𝐚𝐫𝐞𝐝 𝐭𝐡𝐞𝐢𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬 𝐚𝐧𝐝 𝐞𝐱𝐩𝐥𝐨𝐫𝐞𝐝 𝐧𝐞𝐰 𝐢𝐝𝐞𝐚𝐬 
+          𝐚𝐧𝐝 𝐰𝐚𝐲𝐬 𝐨𝐟 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠.🎯 𝐀 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐟𝐢𝐥𝐥𝐞𝐝 𝐰𝐢𝐭𝐡 𝐜𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲, 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐢𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧 — 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐞𝐯𝐞𝐫𝐲 𝐠𝐫𝐞𝐚𝐭 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 𝐛𝐞𝐠𝐢𝐧𝐬 𝐰𝐢𝐭𝐡 
+          𝐚 𝐲𝐨𝐮𝐧𝐠 𝐦𝐢𝐧𝐝 𝐰𝐢𝐥𝐥𝐢𝐧𝐠 𝐭𝐨 𝐚𝐬𝐤 “𝐖𝐡𝐲?” 𝐚𝐧𝐝 “𝐖𝐡𝐲 𝐧𝐨𝐭?”
+          date="18th August 2026"
         />
         <Carousel
           images={[

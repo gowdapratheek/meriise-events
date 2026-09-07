@@ -12,13 +12,30 @@ export default function Event25() {
           images={[
             "/assets/events26/Igniting Young Minds 8.0 Session 3.jpg",
           ]}
-          title="Igniting Young Minds 8.0 Session 3"✨"
+          title="Igniting Young Minds 8.0 Session 3"
           description="✨ ME-RIISE FOUNDATION at Malnad College of Engineering Presents – 𝙄𝙜𝙣𝙞𝙩𝙞𝙣𝙜 𝙔𝙤𝙪𝙣𝙜 𝙈𝙞𝙣𝙙𝙨 𝟖.𝟎 | 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝟑 💡
           💡 From Problems to Possibilities! 🚀Today’s session took young minds one step further — from 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐲𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐥𝐢𝐟𝐞 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 
           𝐭𝐨 𝐝𝐞𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐯𝐢𝐚𝐛𝐥𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬!🔍➡️💡𝐒𝐭𝐮𝐝𝐞𝐧𝐭𝐬 𝐫𝐞𝐯𝐢𝐬𝐢𝐭𝐞𝐝 𝐭𝐡𝐞 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐭𝐡𝐞𝐲 𝐡𝐚𝐝 𝐢𝐝𝐞𝐧𝐭𝐢𝐟𝐢𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐩𝐫𝐞𝐯𝐢𝐨𝐮𝐬 𝐬𝐞𝐬𝐬𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞𝐝 
           𝐭𝐡𝐞𝐢𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬 𝐢𝐧𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧 𝐢𝐝𝐞𝐚𝐬 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐝𝐫𝐚𝐰𝐢𝐧𝐠𝐬 𝐚𝐧𝐝 𝐬𝐤𝐞𝐭𝐜𝐡𝐞𝐬. ✏️🎨🌱 𝐎𝐛𝐬𝐞𝐫𝐯𝐞. 𝐓𝐡𝐢𝐧𝐤. 𝐃𝐞𝐬𝐢𝐠𝐧. 𝐒𝐨𝐥𝐯𝐞. 𝐈𝐧𝐧𝐨𝐯𝐚𝐭𝐞.𝙀𝙫𝙚𝙧𝙮
-          𝙥𝙧𝙤𝙗𝙡𝙚𝙢 𝙩𝙝𝙚𝙮 𝙨𝙚𝙚 𝙩𝙤𝙙𝙖𝙮 𝙘𝙤𝙪𝙡𝙙 𝙗𝙚𝙘𝙤𝙢𝙚 𝙖𝙣 𝙞𝙣𝙣𝙤𝙫𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙩𝙤𝙢𝙤𝙧𝙧𝙤𝙬! 🚀
+          𝙥𝙧𝙤𝙗𝙡𝙚𝙢 𝙩𝙝𝙚𝙮 𝙨𝙚𝙚 𝙩𝙤𝙙𝙖𝙮 𝙘𝙤𝙪𝙡𝙙 𝙗𝙚𝙘𝙤𝙢𝙚 𝙖𝙣 𝙞𝙣𝙣𝙤𝙫𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙩𝙤𝙢𝙤𝙧𝙧𝙤𝙬! 🚀"
           date="3rd September 2026"
+        />
+        <Carousel
+          images={[
+            "/assets/events26/Igniting Young Minds 8.0 Session 2.jpg",
+          ]}
+          title="𝙏𝘽𝙄-𝙈𝘾𝙀 𝙎𝙏𝘼𝙍𝙏𝙐𝙋 𝙎𝙀𝙇𝙀𝘾𝙏𝙄𝙊𝙉 𝙋𝙍𝙊𝘾𝙀𝙎𝙎 – 𝘾𝙊𝙃𝙊𝙍𝙏 𝟏 🚀"
+          description="ME-RIISE FOUNDATION at Malnad College of Engineering 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐓𝐁𝐈-𝐌𝐂𝐄 , successfully conducted the Cohort 1 
+          Startup Selection & Evaluation Process on 2nd September 2026 at, MCE, Hassan.✨ 11 promising startups and innovative teams 
+          presented their ideas, solutions and business models before a distinguished panel of experts, receiving valuable insights
+          and perspectives to strengthen their entrepreneurial journey.👥 Expert Jury Panel:Chairperson – Dr. Geetha Kiran A., CEO, 
+          ME-RIISE Foundation & TBI-MCE Dr. Dr. Shivananda Koteshwar, Senior Vice President & Managing Director – India Site Head, 
+          Astera Labs Colonel Mani Inder Pal (Retd), SM (G) Inder Pal (Retd.) SM, Founder, Alterum Private Limited Mr. Shubham Singh,
+          Founder, BAB Venture Studio Chethan Kumar G., Associate Professor, R V University 👏 𝐀𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐢𝐨𝐧 𝐭𝐨 𝐚𝐥𝐥 𝐩𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐢𝐧𝐠 𝐭𝐞𝐚𝐦𝐬 
+          𝐟𝐨𝐫 𝐬𝐡𝐨𝐰𝐜𝐚𝐬𝐢𝐧𝐠 𝐭𝐡𝐞𝐢𝐫 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧, 𝐞𝐧𝐭𝐫𝐞𝐩𝐫𝐞𝐧𝐞𝐮𝐫𝐢𝐚𝐥 𝐯𝐢𝐬𝐢𝐨𝐧 𝐚𝐧𝐝 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐞 𝐦𝐞𝐚𝐧𝐢𝐧𝐠𝐟𝐮𝐥 𝐢𝐦𝐩𝐚𝐜𝐭.🌱 Building Innovators. 
+          Supporting Startups. Creating Impact.Geetha Kiran A ME-RIISE FOUNDATION Malnad College of Engineering IT BT Department, 
+          Karnataka"
+          date="1st September 2026"
         />
         <Carousel
           images={[
@@ -28,7 +45,7 @@ export default function Event25() {
           description="✨ ME-RIISE FOUNDATION at Malnad College of Engineering Presents – 𝙄𝙜𝙣𝙞𝙩𝙞𝙣𝙜 𝙔𝙤𝙪𝙣𝙜 𝙈𝙞𝙣𝙙𝙨 𝟖.𝟎 | 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 2 💡
           💡 From Problems to Possibilities! 🚀Today’s session focused on helping students observe the challenges in their daily lives,
           understand real-world problems, and start thinking of creative ideas to solve them.🔍 Observe. Think. Identify. Innovate.
-          Every problem is an opportunity to create a better solution! 🚀
+          Every problem is an opportunity to create a better solution! 🚀"
           date="1st September 2026"
         />
        <Carousel
@@ -45,7 +62,7 @@ export default function Event25() {
           robotics* through hands-on activities and team-based projects.Students designed and built *RC Bots, gaining practical skills
           in assembly, programming, testing, and troubleshooting. The bootcamp concluded with bot trials and a valedictory ceremony, 
           with **10 teams participating* and the top two teams shortlisted for the Grand Finale.The programme inspired students to 
-          explore *innovation, entrepreneurship, and prototype development*.
+          explore *innovation, entrepreneurship, and prototype development*."
           date="24th to 28th August 2026"
         />
         <Carousel
@@ -56,7 +73,7 @@ export default function Event25() {
           description="ME-RIISE FOUNDATION at Malnad College of Engineering, Hassan, with its TBI-MCE, supported by the IT BT Department,
           Karnataka, Government of Karnataka, organized the 𝙄𝘿𝙀𝘼 𝙎𝙋𝘼𝙍𝙆 𝟒.𝟎 – 𝙈𝙎𝙈𝙀 𝙄𝙙𝙚𝙖 𝙃𝙖𝙘𝙠𝙖𝙩𝙝𝙤𝙣 𝟔.𝟎 𝙥𝙞𝙩𝙘𝙝𝙞𝙣𝙜 𝙨𝙚𝙨𝙨𝙞𝙤𝙣.🚀 𝟒𝟓 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫𝐬 
           𝐚𝐜𝐫𝐨𝐬𝐬 𝟏𝟑 𝐭𝐞𝐚𝐦𝐬 𝐩𝐢𝐭𝐜𝐡𝐞𝐝 𝐭𝐡𝐞𝐢𝐫 𝐢𝐝𝐞𝐚𝐬 𝐭𝐨 𝐚𝐧 𝐞𝐱𝐩𝐞𝐫𝐭 𝐣𝐮𝐫𝐲, 𝐠𝐚𝐢𝐧𝐢𝐧𝐠 𝐯𝐚𝐥𝐮𝐚𝐛𝐥𝐞 𝐟𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐚𝐧𝐝 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞 𝐭𝐨 𝐫𝐞𝐟𝐢𝐧𝐞 𝐭𝐡𝐞𝐢𝐫 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐦𝐨𝐯𝐞 
-          𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐢𝐦𝐩𝐚𝐜𝐭.A vibrant day of ideas, innovation and possibilities!💡 𝙄𝘿𝙀𝘼 𝙎𝙋𝘼𝙍𝙆 𝟒.𝟎 | 𝙈𝙎𝙈𝙀 𝙄𝙙𝙚𝙖 𝙃𝙖𝙘𝙠𝙖𝙩𝙝𝙤𝙣 𝟔.𝟎
+          𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐢𝐦𝐩𝐚𝐜𝐭.A vibrant day of ideas, innovation and possibilities!💡 𝙄𝘿𝙀𝘼 𝙎𝙋𝘼𝙍𝙆 𝟒.𝟎 | 𝙈𝙎𝙈𝙀 𝙄𝙙𝙚𝙖 𝙃𝙖𝙘𝙠𝙖𝙩𝙝𝙤𝙣 𝟔.𝟎"
           date="25th August 2026"
         />
         <Carousel
@@ -84,7 +101,7 @@ export default function Event25() {
           examples, encouraging them to observe challenges around them and think of innovative solutions.💡 𝐓𝐡𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐞𝐝 𝐰𝐢𝐭𝐡
           𝐚𝐧 𝐞𝐱𝐜𝐢𝐭𝐢𝐧𝐠 𝐐𝐮𝐢𝐳 & 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐐&𝐀 𝐒𝐞𝐬𝐬𝐢𝐨𝐧, 𝐰𝐡𝐞𝐫𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭𝐬 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐩𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐞𝐝, 𝐬𝐡𝐚𝐫𝐞𝐝 𝐭𝐡𝐞𝐢𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭𝐬 𝐚𝐧𝐝 𝐞𝐱𝐩𝐥𝐨𝐫𝐞𝐝 𝐧𝐞𝐰 𝐢𝐝𝐞𝐚𝐬 
           𝐚𝐧𝐝 𝐰𝐚𝐲𝐬 𝐨𝐟 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠.🎯 𝐀 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐟𝐢𝐥𝐥𝐞𝐝 𝐰𝐢𝐭𝐡 𝐜𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲, 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐢𝐧𝐬𝐩𝐢𝐫𝐚𝐭𝐢𝐨𝐧 — 𝐛𝐞𝐜𝐚𝐮𝐬𝐞 𝐞𝐯𝐞𝐫𝐲 𝐠𝐫𝐞𝐚𝐭 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 𝐛𝐞𝐠𝐢𝐧𝐬 𝐰𝐢𝐭𝐡 
-          𝐚 𝐲𝐨𝐮𝐧𝐠 𝐦𝐢𝐧𝐝 𝐰𝐢𝐥𝐥𝐢𝐧𝐠 𝐭𝐨 𝐚𝐬𝐤 “𝐖𝐡𝐲?” 𝐚𝐧𝐝 “𝐖𝐡𝐲 𝐧𝐨𝐭?”
+          𝐚 𝐲𝐨𝐮𝐧𝐠 𝐦𝐢𝐧𝐝 𝐰𝐢𝐥𝐥𝐢𝐧𝐠 𝐭𝐨 𝐚𝐬𝐤 “𝐖𝐡𝐲?” 𝐚𝐧𝐝 “𝐖𝐡𝐲 𝐧𝐨𝐭?”"
           date="18th August 2026"
         />
         <Carousel

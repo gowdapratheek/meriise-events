@@ -22,7 +22,7 @@ export default function Event25() {
         />
         <Carousel
           images={[
-            "/assets/events26/Igniting Young Minds 8.0 Session 2.jpg",
+            "/assets/events26/startup_Pitch.png",
           ]}
           title="𝙏𝘽𝙄-𝙈𝘾𝙀 𝙎𝙏𝘼𝙍𝙏𝙐𝙋 𝙎𝙀𝙇𝙀𝘾𝙏𝙄𝙊𝙉 𝙋𝙍𝙊𝘾𝙀𝙎𝙎 – 𝘾𝙊𝙃𝙊𝙍𝙏 𝟏 🚀"
           description="ME-RIISE FOUNDATION at Malnad College of Engineering 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐓𝐁𝐈-𝐌𝐂𝐄 , successfully conducted the Cohort 1 

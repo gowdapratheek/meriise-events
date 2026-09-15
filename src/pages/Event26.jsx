@@ -41,7 +41,7 @@ export default function Event25() {
           images={[
             "/assets/events26/Igniting Young Minds 8.0 Session 2.jpg",
           ]}
-          title="Igniting Young Minds 8.0 Session 2"✨"
+          title="Igniting Young Minds 8.0 Session 2"
           description="✨ ME-RIISE FOUNDATION at Malnad College of Engineering Presents – 𝙄𝙜𝙣𝙞𝙩𝙞𝙣𝙜 𝙔𝙤𝙪𝙣𝙜 𝙈𝙞𝙣𝙙𝙨 𝟖.𝟎 | 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 2 💡
           💡 From Problems to Possibilities! 🚀Today’s session focused on helping students observe the challenges in their daily lives,
           understand real-world problems, and start thinking of creative ideas to solve them.🔍 Observe. Think. Identify. Innovate.
@@ -56,7 +56,7 @@ export default function Event25() {
             "/assets/events26/Innovation Bootcamp (4).jpeg",
             "/assets/events26/Innovation Bootcamp (5).jpeg",
           ]}
-          title="5 Day Innovation Bootcamp"✨"
+          title="5 Day Innovation Bootcamp"
           description="ME-RIISE Foundation, under TBI-MCE, successfully organized a *5-Day Innovation Bootcamp on Robotics* as part of
           the Bridge Course. The programme introduced students to *Design Thinking, coding, app development, Arduino, electronics, and
           robotics* through hands-on activities and team-based projects.Students designed and built *RC Bots, gaining practical skills
@@ -69,7 +69,7 @@ export default function Event25() {
           images={[
             "/assets/events26/Idea Spark 4.0.jpeg",
           ]}
-          title="Idea Spark 4.0 MSME Idea Hackathon 6.0"✨"
+          title="Idea Spark 4.0 MSME Idea Hackathon 6.0"
           description="ME-RIISE FOUNDATION at Malnad College of Engineering, Hassan, with its TBI-MCE, supported by the IT BT Department,
           Karnataka, Government of Karnataka, organized the 𝙄𝘿𝙀𝘼 𝙎𝙋𝘼𝙍𝙆 𝟒.𝟎 – 𝙈𝙎𝙈𝙀 𝙄𝙙𝙚𝙖 𝙃𝙖𝙘𝙠𝙖𝙩𝙝𝙤𝙣 𝟔.𝟎 𝙥𝙞𝙩𝙘𝙝𝙞𝙣𝙜 𝙨𝙚𝙨𝙨𝙞𝙤𝙣.🚀 𝟒𝟓 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐨𝐫𝐬 
           𝐚𝐜𝐫𝐨𝐬𝐬 𝟏𝟑 𝐭𝐞𝐚𝐦𝐬 𝐩𝐢𝐭𝐜𝐡𝐞𝐝 𝐭𝐡𝐞𝐢𝐫 𝐢𝐝𝐞𝐚𝐬 𝐭𝐨 𝐚𝐧 𝐞𝐱𝐩𝐞𝐫𝐭 𝐣𝐮𝐫𝐲, 𝐠𝐚𝐢𝐧𝐢𝐧𝐠 𝐯𝐚𝐥𝐮𝐚𝐛𝐥𝐞 𝐟𝐞𝐞𝐝𝐛𝐚𝐜𝐤 𝐚𝐧𝐝 𝐠𝐮𝐢𝐝𝐚𝐧𝐜𝐞 𝐭𝐨 𝐫𝐞𝐟𝐢𝐧𝐞 𝐭𝐡𝐞𝐢𝐫 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐦𝐨𝐯𝐞 

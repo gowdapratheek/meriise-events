@@ -15,7 +15,7 @@ export default function Event25() {
             "/assets/events26/ISIH3.png",
           ]}
           title="Infusion 5.0 Internal Smart India Hackathon (SIH) 2026"
-          description="E-RIISE FOUNDATION, through 𝐓𝐁𝐈-𝐌𝐂𝐄 and with the support of the IT BT Department, Karnataka, successfully 
+          description="ME-RIISE FOUNDATION, through 𝐓𝐁𝐈-𝐌𝐂𝐄 and with the support of the IT BT Department, Karnataka, successfully 
           hosted 𝐈𝐧𝐟𝐮𝐬𝐢𝐨𝐧 𝟓.𝟎 – 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐥 𝐒𝐦𝐚𝐫𝐭 𝐈𝐧𝐝𝐢𝐚 𝐇𝐚𝐜𝐤𝐚𝐭𝐡𝐨𝐧 (𝐒𝐈𝐇) 𝟐𝟎𝟐𝟔 at Malnad College of Engineering, 𝐇𝐚𝐬𝐬𝐚𝐧, 𝐨𝐧 𝟖 𝐒𝐞𝐩𝐭𝐞𝐦𝐛𝐞𝐫 
           𝟐𝟎𝟐𝟔.𝐓𝐡𝐞 𝐞𝐯𝐞𝐧𝐭 𝐛𝐫𝐨𝐮𝐠𝐡𝐭 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫 𝟐𝟑𝟒 𝐬𝐭𝐮𝐝𝐞𝐧𝐭𝐬—𝟏𝟓𝟖 𝐟𝐞𝐦𝐚𝐥𝐞 𝐚𝐧𝐝 𝟕𝟔 𝐦𝐚𝐥𝐞 𝐩𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐬—𝐚𝐜𝐫𝐨𝐬𝐬 𝟒𝟎 𝐭𝐞𝐚𝐦𝐬, 𝐰𝐡𝐨 𝐩𝐢𝐭𝐜𝐡𝐞𝐝 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞, 
           𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲-𝐝𝐫𝐢𝐯𝐞𝐧 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐜𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐛𝐞𝐟𝐨𝐫𝐞 𝐚𝐧 𝐞𝐱𝐩𝐞𝐫𝐭 𝐣𝐮𝐫𝐲 𝐩𝐚𝐧𝐞𝐥.𝟐𝟑𝟒 𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐧𝐭𝐬 |𝟏𝟓𝟖 𝐅𝐞𝐦𝐚𝐥𝐞|𝟕𝟔 𝐌𝐚𝐥𝐞|𝟒𝟎 𝐓𝐞𝐚𝐦𝐬|

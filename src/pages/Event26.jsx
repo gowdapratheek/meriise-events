@@ -10,7 +10,7 @@ export default function Event25() {
        
        <Carousel
           images={[
-            "/assets/events26/campus to career.jpeg",
+            "/assets/events26/Campus to Career.jpeg",
           ]}
           title="Campus to Career – 3-Day Intensive Placement Programme"
           description="ME-RIISE Foundation organized “Campus to Career” – a 3-Day Intensive Placement Programme for EEE students from 
@@ -28,7 +28,7 @@ export default function Event25() {
             "/assets/events26/Bg Ep5.jpeg",
           ]}
           title="✨ Bridging Generations Alumni Insights 2.0 | Episode 05"
-          description="t was a pleasure to welcome Ms. Shubha Girish, a distinguished alumna of the 1993 CSE batch, for today’s 
+          description="It was a pleasure to welcome Ms. Shubha Girish, a distinguished alumna of the 1993 CSE batch, for today’s 
           online session, Life After Engineering.Drawing on more than two decades in technology, Ms. Shubha shared her career journey 
           and offered thoughtful insights on learning, growth, and the opportunities that open up after engineering. Her interaction 
           gave our students a chance to hear from someone who once stood where they stand today.On behalf of ME-RIISE FOUNDATION at 

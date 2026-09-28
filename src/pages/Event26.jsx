@@ -10,6 +10,49 @@ export default function Event25() {
        
        <Carousel
           images={[
+            "/assets/events26/Bg Ep5.jpeg",
+          ]}
+          title="✨ Bridging Generations Alumni Insights 2.0 | Episode 05"
+          description="t was a pleasure to welcome Ms. Shubha Girish, a distinguished alumna of the 1993 CSE batch, for today’s 
+          online session, Life After Engineering.Drawing on more than two decades in technology, Ms. Shubha shared her career journey 
+          and offered thoughtful insights on learning, growth, and the opportunities that open up after engineering. Her interaction 
+          gave our students a chance to hear from someone who once stood where they stand today.On behalf of ME-RIISE FOUNDATION at 
+          Malnad College of Engineering, Hassan, we thank Ms. Shubha Girish for giving her time so generously and for staying connected
+          with the next generation of MCE students.Kudos to Dr. Geetha Kiran A., CEO, ME-RIISE Foundation, and Mr. krishnaswamy 
+          subbarao for their efforts in connecting alumni with students through Bridging Generations Alumni Insights . We also thank 
+          everyone who joined and helped make the session meaningful.Connecting alumni. Inspiring futures."
+          date="26th September 2026"
+        />
+       <Carousel
+          images={[
+            "/assets/events26/Igniting young minds 5.jpeg",
+          ]}
+          title="Igniting Young Minds 8.0 Session 5"
+          description="Session 5 of Igniting Young Minds - introduced young minds to Tinkercad, an interactive platform that helps 
+          students explore and understand the basics of electronics and circuit design.Students were introduced to the basics of 
+          circuits, including simple components, their functions, and how they come together to form a working circuit. The session
+          helped students build a basic understanding of circuit design and encouraged them to think about how simple ideas can lead 
+          to interesting creations.This introduction set the stage for students to explore, experiment, and create as they continue 
+          their tinkering journey.🌱 Understand. Imagine. Explore. Innovate.𝐀𝐭 𝐌𝐄-𝐑𝐈𝐈𝐒𝐄 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧, 𝐰𝐞 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐭𝐡𝐚𝐭 𝐜𝐮𝐫𝐢𝐨𝐬𝐢𝐭𝐲 𝐢𝐬 𝐭𝐡𝐞 
+          𝐟𝐢𝐫𝐬𝐭 𝐬𝐭𝐞𝐩 𝐭𝐨𝐰𝐚𝐫𝐝𝐬 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧. 𝐄𝐯𝐞𝐫𝐲 𝐧𝐞𝐰 𝐜𝐨𝐧𝐜𝐞𝐩𝐭 𝐭𝐡𝐞𝐲 𝐥𝐞𝐚𝐫𝐧 𝐭𝐨𝐝𝐚𝐲 𝐜𝐚𝐧 𝐛𝐞𝐜𝐨𝐦𝐞 𝐭𝐡𝐞 𝐢𝐝𝐞𝐚 𝐭𝐡𝐞𝐲 𝐛𝐮𝐢𝐥𝐝 𝐭𝐨𝐦𝐨𝐫𝐫𝐨𝐰. 💡"
+          date="17th September 2026"
+        />
+       <Carousel
+          images={[
+            "/assets/events26/Igniting Young Minds 4.jpeg",
+          ]}
+          title="Igniting Young Minds 8.0 Session 4"
+          description="Today’s session took young minds one step further — from creating ideas to presenting them with confidence! 💡✨
+          Students were introduced to the basics of idea pitching and learned how to present their thoughts clearly, confidently, 
+          and without fear of speaking on stage.As part of the session, students stepped onto the stage and pitched their own ideas, 
+          gaining practical experience in communication, public speaking, and effective presentation. 🎤🌟🌱 Think. Prepare. Pitch. 
+          Believe. Innovate.Every confident pitch is a step towards turning a simple idea into a meaningful innovation! 🚀𝐀𝐭 𝐌𝐄-𝐑𝐈𝐈𝐒𝐄
+          𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧, 𝐰𝐞 𝐛𝐞𝐥𝐢𝐞𝐯𝐞 𝐢𝐧 𝐞𝐦𝐩𝐨𝐰𝐞𝐫𝐢𝐧𝐠 𝐲𝐨𝐮𝐧𝐠 𝐦𝐢𝐧𝐝𝐬 𝐭𝐨 𝐧𝐨𝐭 𝐨𝐧𝐥𝐲 𝐜𝐫𝐞𝐚𝐭𝐞 𝐢𝐝𝐞𝐚𝐬 𝐛𝐮𝐭 𝐚𝐥𝐬𝐨 𝐟𝐢𝐧𝐝 𝐭𝐡𝐞 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞 𝐭𝐨 𝐠𝐢𝐯𝐞 𝐭𝐡𝐞𝐢𝐫 𝐢𝐝𝐞𝐚𝐬 𝐚 
+          𝐯𝐨𝐢𝐜𝐞.💡"
+          date="15th September 2026"
+        />
+       <Carousel
+          images={[
             "/assets/events26/ISIH1.png",
             "/assets/events26/ISIH2.png",
             "/assets/events26/ISIH3.png",

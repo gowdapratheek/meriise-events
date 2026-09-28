@@ -10,6 +10,21 @@ export default function Event25() {
        
        <Carousel
           images={[
+            "/assets/events26/campus to career.jpeg",
+          ]}
+          title="Campus to Career – 3-Day Intensive Placement Programme"
+          description="ME-RIISE Foundation organized “Campus to Career” – a 3-Day Intensive Placement Programme for EEE students from 
+          22nd to 24th September 2026. The programme focused on enhancing students’ career readiness, communication, professional 
+          confidence, and technical skills.The sessions covered career guidance, resume building, professional writing, effective 
+          communication, presentation skills, group communication, aptitude and logical reasoning, Group Discussion, Technical Round,
+          and HR Round. Students actively participated in practical activities that provided exposure to real-world placement and 
+          selection processes.The programme helped students strengthen their employability skills, confidence, teamwork, 
+          communication, and interview readiness, preparing them to take a confident step from campus to career.Prepare. Practice. 
+          Perform. 🚀"
+          date="22nd to 24th September 2026"
+        />
+       <Carousel
+          images={[
             "/assets/events26/Bg Ep5.jpeg",
           ]}
           title="✨ Bridging Generations Alumni Insights 2.0 | Episode 05"
